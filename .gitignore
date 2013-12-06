@@ -1,0 +1,11 @@
+# Ignore the Desktop Services Store files
+*.DS_Store
+
+# Ignore bundler config
+/.bundle
+
+# Ignore the build directory
+/build
+
+# Ignore Sass' cache
+/.sass-cache
