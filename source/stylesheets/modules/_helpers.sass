@@ -1,0 +1,58 @@
+%link--orange
+  color: $orange
+  transition: all 0.2s linear
+  &:hover
+    color: darken($orange, 30%)
+
+%list--clean
+  list-style: none
+  margin: 0
+  padding: 0
+
+%center--margin
+  margin-left: auto
+  margin-right: auto
+
+.text--center
+  text-align: center
+
+%wrap--normal
+  max-width: 29rem
+  @extend %center--margin
+
+%wrap--extranarrow
+  max-width: 19.791rem
+  @extend %center--margin
+
+%wrap--narrow, .wrap--narrow
+  max-width: 24.738rem
+  @extend %center--margin
+
+%wrap--wide
+  max-width: 44rem
+  @extend %center--margin
+
+.wide
+  margin-left: -6.485rem
+  margin-right: -6.485rem
+
+.visuallyhidden 
+  border: 0
+  clip: rect(0 0 0 0)
+  height: 1px
+  margin: -1px
+  overflow: hidden
+  padding: 0
+  position: absolute
+  width: 1px
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus 
+  clip: auto
+  height: auto
+  margin: 0
+  overflow: visible
+  position: static
+  width: auto
+
+

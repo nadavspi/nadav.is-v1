@@ -1,0 +1,41 @@
+<div class="image image--home"></div>
+
+<section class="masthead">
+  <h1>Hi, I&rsquo;m <span>Nadav Spiegelman</span>. I make everyday life more beautiful as a professional <a href="/playing">Jazz&nbsp;musician</a> and <a href="/designing">web&nbsp;designer</a>.</h1>
+</section>
+
+<main role="main">
+  <section class="home__design">
+    <h2><a href="/designing">Web Design</a></h2>
+    <p>I am a front-end designer &amp; developer specializing in HTML/CSS and responsive design. I love typography and simple, content-driven websites.</p>
+<!--     <div class="featured">
+      <ul>
+        <li><img src="images/screen.jpg" alt=""></li>
+        <li><img src="images/screen.jpg" alt=""></li>
+      </ul>
+    </div> -->
+  </section>
+
+  <section class="home__music">
+    <h2><a href="/playing">Music</a></h2>
+    <p>I've been playing the double bass professionally since 2007. I like any music that feels good, but my love of Jazz borders on obsession.</p>
+<!--     <div class="featured">
+      
+    </div> -->
+  </section>
+
+  <section class="home__recent">
+    <h2><a href="/writing">Recent Articles</a></h2>
+    <ol>
+      <% blog.articles[0...3].each do |article| %>
+        <li class="sc"><%= link_to article.title, article %></li>
+      <% end %>
+    </ol>
+  </section>
+
+  <section class="home__contact">
+    <h2><a href="mailto:me@nadav.is">Contact me</a></h2>
+    <p>Feel free to get in touch if you'd like to work together, or just want to chat.</p>
+    <p><a href="mailto:me@nadav.is">me@nadav.is</a> / <a href="https://twitter.com/nadavspi">@nadavspi</a></p>
+  </section>
+</main>

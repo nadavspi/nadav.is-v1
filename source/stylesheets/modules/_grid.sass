@@ -1,0 +1,35 @@
+
+$show-grid-backgrounds: false
+
+
+$total-columns      : 6
+$column-width       : 60px
+$gutter-width       : 20px
+$grid-padding       : $gutter-width / 2
+
+// Uncomment to make the grid fluid (w/ a max-width)
+// $container-style: fluid
+// .container
+//   max-width: 1380px
+
+$medium:   8
+$large: 12
+$huge:    16
+
+body
+  +container($total-columns, $medium, $large, $huge)
+
+html
+  +susy-grid-background
+
+// header, #main-content, footer
+//   // Clearfix for full-width elements
+//   @include clearfix
+
+// Automatically reset the grid width & re-apply the grid background
+// to responsive layouts.
+$layouts: $medium, $large, $huge
+@each $layout in $layouts
+  +at-breakpoint($layout)
+    html
+      +susy-grid-background

@@ -1,0 +1,17 @@
+
+#is-expanded
+  max-height: 60rem
+
+
+.portfolio
+  +clearfix
+  ul
+    @extend %list--clean
+    text-align: center
+  li
+    margin-bottom: ms(8)
+    @extend %center--margin
+    max-width: 20rem
+    +at-breakpoint($large)
+      +span-columns(4)
+      +nth-omega(3n)

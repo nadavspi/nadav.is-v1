@@ -1,0 +1,22 @@
+<% wrap_layout :layout do %>
+
+  <article class="post">
+    <header class="post__header">
+      <h1><%= link_to current_article.title, current_article %></h1>
+      <h4><%= current_article.date.strftime('%B %e, %Y') %></h4>
+    </header>
+    <%= yield %>
+  </article>
+  
+  <% if current_article.previous_article || current_article.next_article %>
+    <nav>
+      <%= link_to "Next: #{current_article.next_article.title}", 
+          current_article.next_article, 
+          class: "post__next" if current_article.next_article %>
+      <%= link_to "Previous: #{current_article.previous_article.title}", 
+          current_article.previous_article, 
+          class: "post__previous" if current_article.previous_article %>
+    </nav>
+  <% end %>
+
+<% end %> 

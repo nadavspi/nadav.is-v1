@@ -1,0 +1,117 @@
+* 
+  box-sizing: border-box
+
+html
+  font-size: 16px
+  +at-breakpoint($medium)
+    font-size: 18px
+  +at-breakpoint($large)
+    font-size: 20px
+
+body 
+  font-size: 1rem
+  line-height: 1.55
+  margin: 30px auto
+  padding: 0 1em
+  background-color: lighten(#e4e8ed,5%)
+  color: #444
+
+main
+  +clearfix
+
+img
+  max-width: 100%
+
+h1,h2,h3
+  color: #222
+  text-rendering: optimizeLegibility
+
+h1
+  font-size: ms(5)
+  line-height: 1.2
+  margin-top: 0
+  margin-bottom: ms(-2)
+  font-weight: normal
+  +at-breakpoint($medium)
+    margin-bottom: ms(5)
+
+h2
+  font-size: ms(3)
+  line-height: 1.3
+  font-weight: normal
+  font-style: italic
+  margin-top: ms(7)
+  margin-bottom: 0.21rem
+  a
+    // color: #222
+    @extend %link--orange
+
+h3 
+  font-size: ms(1)
+  font-weight: normal
+  margin-top: ms(3)
+  margin-bottom: 0
+  @extend .sc
+
+h4 
+  font-size: ms(0)
+  font-weight: normal
+  color: #888
+  margin: 0
+  @extend .sc
+
+.subheading
+  font-size: 0.8em
+  font-style: italic
+
+p
+  margin-top: 0
+  margin-bottom: 0.696em
+
+blockquote
+  font-size: 0.87rem
+  line-height: 1.4
+  margin: 1rem 0 ms(5) 2.125em
+
+.quote-speaker
+  @extend .sc
+  color: #888
+  margin-right: ms(-10)
+
+a
+  color: $green
+  text-decoration: none
+  transition: all 0.2s linear
+  &:hover
+    color: darken($green, 30%)
+
+.sc
+  font-family: "ff-tundra-sc-web"
+  text-transform: lowercase
+
+
+section 
+  & > .featured
+    margin: ms(0) 0
+  & > header
+    margin-bottom: ms(0)
+
+article
+  @extend %wrap--normal
+  margin: 3.052rem auto
+  p
+    margin: 0
+    text-indent: ms(3)
+  li
+    p
+      text-indent: 0
+    
+.featured
+  margin-top: 1rem
+  margin-bottom: 1rem
+  ul
+    @extend %list--clean
+
+
+
+

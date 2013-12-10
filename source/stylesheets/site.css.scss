@@ -1,11 +1,9 @@
-// Bourbon and Neat
-@import 'bourbon';
-@import 'partials/_neat-settings';
-@import 'neat';
+@import "susy";
+@import 'modules/grid';
+@import 'modular-scale';
 
-// Third-party
 @import 'vendor/_normalize';
-// @import 'vendor/_html5bp';
 
-// Site
-@import 'partials/base';
+@import 'vars';
+@import 'base';
+@import "modules/*";

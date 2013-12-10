@@ -1,0 +1,32 @@
+.post
+  +clearfix
+
+.post + .post
+  margin-top: 5.961rem
+
+.post + nav
+  margin-top: 5.961rem
+
+.post__header
+  margin-bottom: ms(5)
+  h1
+    letter-spacing: 1px
+    margin-bottom: 0
+    font-weight: bold
+    a
+      @extend %link--orange
+
+
+
+.post__next, .post__previous
+  display: block
+  text-align: center
+  font-size: ms(-1)
+  +at-breakpoint($medium)
+    font-size: 1rem
+
+// +at-breakpoint($medium)
+  // .post__next
+  //   float: right
+  // .post__previous
+  //   float: left

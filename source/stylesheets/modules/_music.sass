@@ -1,0 +1,63 @@
+.playing 
+  h2
+    text-align: center
+
+
+%music__grid
+  +clearfix
+  ul
+    @extend %list--clean
+  li
+    margin-bottom: ms(0)
+    +at-breakpoint($medium)
+      +span-columns(4)
+      +nth-omega(2n)
+      &:nth-child(2n+1):last-child
+        float: none 
+        margin-left: auto
+        margin-right: auto
+    +at-breakpoint($large)
+      +span-columns(4)
+      +remove-nth-omega(2n)
+      +nth-omega(3n)
+      &:nth-child(2n+1)
+        float: right
+        margin-right: 0
+
+.discography
+  @extend %wrap--wide
+  @extend %music__grid
+  li
+    text-align: center
+    +at-breakpoint($medium)
+      &:nth-child(2n+1):last-child
+        float: none 
+        margin-left: auto
+        margin-right: auto
+    +at-breakpoint($large)
+      &:nth-child(2n+1)
+        float: right
+        margin-right: 0
+  img
+    max-width: 12.666rem
+    +at-breakpoint($large)
+      max-width: 100%
+
+.videos
+  @extend %wrap--wide
+  @extend %music__grid
+  li
+    /* this is really hacky, I know :-( */
+    +at-breakpoint($medium)
+      &:nth-child(2n+1):last-child 
+        +clearfix
+    +at-breakpoint($large)
+      &:nth-child(2n+1):last-child
+        overflow: visible
+        +span-columns(4)
+
+
+.audio
+  @extend %wrap--narrow
+  ul
+    @extend %list--clean

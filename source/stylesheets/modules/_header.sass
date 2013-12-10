@@ -1,0 +1,25 @@
+body > header
+  margin-bottom: ms(-1)
+  +clearfix
+  nav
+    text-align: center
+    font-size: ms(-1)
+    display: block
+    +at-breakpoint($medium)
+      font-size: ms(0)
+    h1
+      font-weight: normal
+      a
+        @extend %link--orange
+      +at-breakpoint($medium)
+        float: left
+    ul
+      margin: 0
+      padding: 0
+      +at-breakpoint($medium)
+        float: right
+    li
+      display: inline
+    li + li
+      display: inline
+      padding-left: 1em
