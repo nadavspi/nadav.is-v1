@@ -12,8 +12,7 @@ I've recently fallen in love with [Debbie Millman](http://debbiemillman.com/)'s 
 > 
 > <span class="quote-speaker">Millman:</span> &hellip;there were only three channels back then.
 > 
-> <span class="quote-speaker">Reachout:</span> That's right. And they all felt, or were required to feel by the FCC, that they had a responsibility to present various kinds of arts programming. So I saw Vladimir Horowitz on CBS, not on some sort of public station. I saw George Balanchine's choregoraphy on the Ed Sullivan show, not on Dance in America. It was through the medium of commercial television that I discovered the larger world of art.
-
+> <span class="quote-speaker">Reachout:</span> That's right. And they all felt, or were required to feel by the FCC, that they had a responsibility to present various kinds of arts programming. So I saw [Vladimir Horowitz][9675-001] on CBS, not on some sort of public station. I saw [George Balanchine's][9675-002] choregoraphy on the Ed Sullivan show, not on Dance in America. It was through the medium of commercial television that I discovered the larger world of art.
 
 My introduction to Jazz music happened, as these things often do, by a lucky accident: a friend gave me Miles Davis’ *[Kind Of Blue][9002-001]*. I listened to it, fell in love, and then did what I always do first when I want to learn about something. I turned to the internet. I looked up the other musicians on the album and explored their biographies and works through Wikipedia, blogs, forums—whatever I could get my hands on. Like Teachout, local access to the arts—namely Jazz in my case—was limited at first. I was lucky to have great private teachers from the beginning, but it was the internet that appeased my insatiable, somewhat obsessive curiosity about the rich history of the music. 
 
@@ -31,3 +30,5 @@ People are hungry for content that’s more meaningful and challenging than real
 [9002-004]: http://www.amazon.com/gp/product/B000000Y7F/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000000Y7F&linkCode=as2&tag=nadavis-20
 [9002-005]: http://www.amazon.com/gp/product/B000000YLS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000000YLS&linkCode=as2&tag=nadavis-20
 [9002-006]: http://www.amazon.com/gp/product/B000006EJ4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000006EJ4&linkCode=as2&tag=nadavis-20
+[9675-001]: http://en.wikipedia.org/wiki/Vladimir_Horowitz
+[9675-002]: http://en.wikipedia.org/wiki/George_Balanchine
