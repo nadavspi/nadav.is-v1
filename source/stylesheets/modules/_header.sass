@@ -9,14 +9,15 @@ body > header
       font-size: ms(0)
     h1
       font-weight: normal
+      margin-bottom: ms(-4)
       a
         @extend %link--orange
-      +at-breakpoint($medium)
+      +at-breakpoint($large)
         float: left
     ul
       margin: 0
       padding: 0
-      +at-breakpoint($medium)
+      +at-breakpoint($large)
         float: right
     li
       display: inline
