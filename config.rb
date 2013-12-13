@@ -9,7 +9,7 @@ activate :deploy do |deploy|
   deploy.host   = "nadav.name"
   deploy.path   = "/var/www/nadav.is"
   deploy.user  = "nadavspi@nadav.name"
-  deploy.clean = true
+  deploy.clean = false
   deploy.build_before = true
 end
 
