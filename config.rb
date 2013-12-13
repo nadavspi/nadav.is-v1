@@ -7,7 +7,7 @@
 activate :deploy do |deploy|
   deploy.method = :rsync
   deploy.host   = "nadav.name"
-  deploy.path   = "/home/nadavspi/all_domains/nadav.is"
+  deploy.path   = "/var/www/nadav.is"
   deploy.user  = "nadavspi@nadav.name"
   deploy.clean = true
   deploy.build_before = true
