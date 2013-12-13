@@ -19,7 +19,7 @@ I would like to see a web publishing platform created especially for musicians. 
 WordPress is a blogging platform turned massive content management system and is [used by over 70 million websites](http://en.wordpress.com/stats/). They offer free hosting at [WordPress.com](http://wordpress.com)—or $13 a year to use your own domain name—but I recommend hosting it yourself which gives you more control and ownership over your content. It's pretty easy. Here's what you need:
 
 1. A domain name — about $10 a year. I use [name.com](http://www.name.com/).
-2. A web hosting account with one click WordPress installation — about $10 a month. I recommend [Eleven2](http://www.eleven2.com/1316.html) or [MediaTemple](http://mediatemple.net).
+2. A web hosting account with one click WordPress installation — about $10 to $20 a month. I recommend [Eleven2](http://www.eleven2.com/1316.html) or [MediaTemple](http://mediatemple.net).
 3. A good WordPress theme — free, or up to $100. [ThemeForest][9414-001] and [WooThemes][9414-002] but it can be hard to find the good stuff among the crap. I really like [Organic Themes][9414-003] and [The Theme Foundry][9414-004].
 
 This is a good, relatively inexpensive foundation for a website that can grow with you. You can also pay someone to customize your chosen WordPress theme which is far less costly than a totally custom design. 
