@@ -4,6 +4,15 @@
 
 # Time.zone = "UTC"
 
+activate :deploy do |deploy|
+  deploy.method = :rsync
+  deploy.host   = "nadav.name"
+  deploy.path   = "/home/nadavspi/all_domains/nadav.is"
+  deploy.user  = "nadavspi@nadav.name"
+  deploy.clean = true
+  deploy.build_before = true
+end
+
 set :markdown_engine, :redcarpet
 set :markdown, :smartypants => true
 
