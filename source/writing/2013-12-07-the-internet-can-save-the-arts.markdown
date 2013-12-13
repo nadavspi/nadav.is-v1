@@ -4,7 +4,7 @@ date: 2013-12-07
 tags: jazz, design
 ---
 
-I've recently fallen in love with [Debbie Millman](http://debbiemillman.com/)'s podcast, [Design Matters](http://observermedia.designobserver.com/show_designmatters.html). Debbie—whose [story](http://thegreatdiscontent.com/debbie-millman) is fascinating in its own right—masterfully interviews designers and other creative professionals about where they are now and how they got there. In a [recent episode](http://observermedia.designobserver.com/audio/terry-teachout/38216/), Terry Teachout explains how, growing up in a small town, commercial television was instrumental in introducing him to the arts:
+I've recently fallen in love with [Debbie Millman](http://debbiemillman.com/)'s podcast, [Design Matters](http://observermedia.designobserver.com/show_designmatters.html). Debbie—whose [story](http://thegreatdiscontent.com/debbie-millman) is fascinating in its own right—masterfully interviews designers and other creative professionals about where they are now and how they got there. In a [recent episode](http://observermedia.designobserver.com/audio/terry-teachout/38216/), [Terry Teachout](http://en.wikipedia.org/wiki/Terry_Teachout) explains how, growing up in a small town, commercial television was instrumental in introducing him to the arts:
 
 > [Debbie Millman asks Terry Reachout how he was exposed to the arts growing up, given there was only one movie theater in his town, and it only played old movies.]
 > 
