@@ -14,7 +14,7 @@ activate :deploy do |deploy|
 end
 
 set :markdown_engine, :redcarpet
-set :markdown, :smartypants => true
+set :markdown, :smartypants => true, :footnotes => true
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
