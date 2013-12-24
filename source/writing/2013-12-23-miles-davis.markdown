@@ -82,7 +82,12 @@ The first Miles album to include electric instrument is also the last album to f
 
 Miles' career didn't end in 1970. He took a six year hiatus starting in 1975, but otherwise continued to play until his death in 1991.  
 
-
+<figure>
+    <img src=/images/articles/Miles1991.jpg alt=“Miles Davis in 1991”>
+    <figcaption>
+        Miles Davis in 1991. Photo by Peter Buitelaar.
+    </figcaption>
+</figure>
 
 
 
