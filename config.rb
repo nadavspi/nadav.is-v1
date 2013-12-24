@@ -13,8 +13,9 @@ activate :deploy do |deploy|
   deploy.build_before = true
 end
 
-set :markdown_engine, :kramdown
-# set :markdown, :smartypants => true, :footnotes => true
+# set :markdown_engine, :kramdown
+set :markdown_engine, :redcarpet
+set :markdown, :smartypants => true, :footnotes => true
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -92,6 +93,7 @@ activate :livereload
 #     "Helping"
 #   end
 # end
+# helpers CustomHelpers
 
 set :css_dir, 'stylesheets'
 

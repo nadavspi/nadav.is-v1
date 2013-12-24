@@ -13,8 +13,9 @@ gem "middleman-livereload"
 
 gem "susy"
 gem "modular-scale"
-gem "redcarpet"
-gem "kramdown"
+# gem "redcarpet", git: "git://github.com/byronsanchez/redcarpet-footnotes.git"
+gem 'redcarpet', '~> 3.0.0', git: 'git://github.com/vmg/redcarpet.git'
+# gem "kramdown"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
