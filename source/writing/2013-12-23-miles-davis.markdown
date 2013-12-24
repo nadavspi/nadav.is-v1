@@ -4,20 +4,19 @@ date: 2013-12-23
 tags: Jazz
 ---
 
-“I can’t talk about Miles Davis—he’s Miles Davis!” What could be more cliché than that? The assignment was to talk about people we admire and explain what makes them great. I didn’t think everyone in the group at [Patterns](http://patterns.co)—designers, entrepreneurs, and film people—wanted to hear me blabber about Jazz for a week, so I tried to think of some that weren’t musicians.  
+“I can’t talk about Miles Davis—he’s Miles Davis!” The assignment was to talk about people we admire and explain what makes them great. I didn’t think everyone in the group at [Patterns](http://patterns.co)—designers, entrepreneurs, and film people—wanted to hear me prattle about Jazz for a week, so I tried to think of some heroes that weren’t musicians.  
 
 I couldn’t. I was going to talk about Miles Davis. I was conflicted about presenting him as a *hero*. I worried about mythologizing a gruff drug addict into a saintly genius. Still, one has to separate the person from the work.  
 
 After sharing my thought process with the group, I pulled up a [Google Image Search for Miles][google-image] on the TV, looked at it for a few seconds, and said: “Just look at this motherfucker. Miles Davis epitomizes cool.”[^planned]
 
-<a href="whatever">
 <figure>
-<img src=/images/articles/Miles.jpg alt=“Miles Davis”>
-<figcaption>
-<em>Birth of the Cool</em>, recorded 1949-1950. 
-</figcaption>
+    <img src=/images/articles/Miles.jpg alt=“Miles Davis”>
+    <figcaption>
+        "Just look at this motherfucker." Photo by Paul Talumbo.
+    </figcaption>
 </figure>
-</a>
+
 
 Then, I told some stories.
 
@@ -33,7 +32,7 @@ I explained how, when electric music and rock &lsquo;n’ roll became popular in
 
 I was encouraged to see people around me nodding in interest and recognition as I talked about Jazz. I shared my worry about mythologizing our heroes. I love Miles for his creative output, not for his personality. He was a promiscuous drug addict and often took credit for tunes he didn’t write. I’m interested in the biographies of artists I admire, but I’m a lot more interested in their work.
 
-## A few albums to check out
+## Suggested listening
 
 Given that Miles Davis put out 48 studio albums and 36 live albums[^discography], and that I haven't heard most of them, this list is in no way comprehensive. But it should give the newbie a taste of the diversity of the man's music and some direction for further exploration. The best way to get into Jazz is to find something you like, look up the artists, and see what else they did. That's how I started, and I'm still going strong. 
 
@@ -41,77 +40,57 @@ Given that Miles Davis put out 48 studio albums and 36 live albums[^discography]
 
 A compilation documenting a nine piece group that recorded in 1949 and 1950. Considered paradigmatic for the so-called *[cool jazz][7140-001]* subgenre, the band featured colorful, orchestral-ish arrangements by [Gil Evans] that are informed by the "hot" [bebop](http://en.wikipedia.org/wiki/Bebop) style of the 1940's but mark an important departure from it. This music is noticeably more chilled out and more accessibly melodic than bebop, which perhaps requires a greater understanding of Jazz to be appreciated. 
 
-
+<div class="spotify">
+    <iframe src="https://embed.spotify.com/?uri=spotify:album:3wG8DcAJVgr7sbWNvKanzS" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 ### The first quintet
 
-Around 1956, Miles assembled what would be known as his first great quintet, with [John Coltrane][1475-001] on tenor saxophone, [Red Garland][1475-002] on piano, [Paul Chambers][1475-003] on bass, and [Philly Joe Jones][1475-004] on drums. My favorite albums of this group all came from the same recording session in 1956: *[Relaxin' with the Miles Davis Quintet][0775-001]*, *[Steamin' with the Miles Davis Quintet][0775-002]*, *[Cookin' with the Miles Davis Quintet][0775-003]*, *[Workin' with the Miles Davis Quintet][0775-004]*. They're all awesome, and Jazz cats all over the world are still playing a lot of the same tunes in the same keys. 
+Around 1956, Miles assembled what would be known as his first great quintet, with [John Coltrane][1475-001] on tenor saxophone, [Red Garland][1475-002] on piano, [Paul Chambers][1475-003] on bass, and [Philly Joe Jones][1475-004] on drums. My favorite albums of this group all came from the same recording session in 1956: *[Relaxin' with the Miles Davis Quintet][0775-001]*, *[Steamin' with the Miles Davis Quintet][0775-002]*, *[Cookin' with the Miles Davis Quintet][0775-003]*, *[Workin' with the Miles Davis Quintet][0775-004]*. They're all awesome, and Jazz cats all over the world still play a lot of the same tunes in the same keys because of these records.
 
-[Relaxin' with the Miles Davis Quintet][7140-002]
-<figure> <!-- let's stick these in margins when possible -->
-    <img src=/images/articles/Miles.jpg alt=“Miles Davis”>
-    <figcaption>
-        <em>Relaxin' with the Miles Davis Quintet</em>, recorded 1956. 
-    </figcaption>
-</figure>
+<div class="spotify">
+    <iframe src="https://embed.spotify.com/?uri=spotify:album:1mQCpyWoI4vTore21DgOQG" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+</div>
+
 
 ### Kind of Blue
 
-[Kind of Blue][6298-001] is supposedly the best selling Jazz album of all time and the first album I heard. I'm not sure how it became so well known, since they made plenty of great albums around this time, but it sure is good. The players are Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans, Paul Chambers, Jimmy Cobb. Wynton Kelly subs in for Bill Evans on piano for *Freddie Freeloader*. 
+Supposedly the best selling Jazz album of all time and the first Jazz album I ever heard. I'm not sure how it became so well known, since they made plenty of great albums around this time, but it sure is good. The players are Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans, Paul Chambers, Jimmy Cobb. Wynton Kelly subs in for Bill Evans on piano for *Freddie Freeloader*. 
 
-When I heard Jimmy Cobb—the sole surviving member of this band—in 2012(?), this is what he said:
-
-> something Jimmy Cobb said
-
-
-<a href="http://www.amazon.com/gp/product/B000002ADT/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000002ADT&linkCode=as2&tag=nadavis-20" markdown="1">
-<figure>
-{::nomarkdown}
-<img src="/images/articles/Miles.jpg" alt=“Miles Davis”>
-{:/}
-<figcaption>
-Kind of Blue, recorded 1959.
-</figcaption>
-</figure>
-</a>
+<div class="spotify">
+    <iframe src="https://embed.spotify.com/?uri=spotify:album:42ge6JtPfeF6FEYXCJ50Gu" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 ### The second quintet 
 
-Miles' second great quintet featured Wayne Shorter on tenor saxophone, Herbie Hancock on piano, Ron Carter on bass, and Tony Williams on drums.[^wayne] The influence of this band on Jazz musicians cannot be overstated. We fucking love this band. 
+Miles' second great quintet featured Wayne Shorter on tenor saxophone, Herbie Hancock on piano, Ron Carter on bass, and Tony Williams on drums.[^wayne] The influence of this band on Jazz musicians cannot be overstated. Collectively, we fucking love this band. 
 
 There are six studio albums by the quintet and numerous live recordings. They played mostly original compositions in the studio, and mostly standards on the road. 
 
+<div class="spotify">
+    <iframe src="https://embed.spotify.com/?uri=spotify:album:7buEUXT132AA4FPswvh9tV" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
-<figure>
-<img src=/images/articles/Miles.jpg alt=“Miles Davis”>
- <figcaption>
-     <em>Miles Smiles</em>, recorded in the studio in 1966.
- </figcaption>
-</figure>
-
-<figure>
- <img src=/images/articles/Miles.jpg alt=“Miles Davis”>
- <figcaption>
-     <em>Miles in Berlin</em>, recorded live in 1964. 
- </figcaption>
-</figure>
 
 ### Going electric
 
+The first Miles album to include electric instrument is also the last album to feature the second quintet intact: *[Miles In The Sky](!a)*, recorded in 1968. Miles' [fusion](!wiki "Jazz fusion") truly began with *[In a Silent Way](!a)* and *[Bitches Brew](!a)*, released in 1969 and 1970 respectively. 
 
+<div class="spotify">
+    <iframe src="https://embed.spotify.com/?uri=spotify:album:4HeZ7OqYlDWsXdgSQLCAdE" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
+### And beyond
 
+Miles' career didn't end in 1970. He took a six year hiatus starting in 1975, but otherwise continued to play until his death in 1991.  
 
 
 
 
 
 [^bird]: Charlie Parker, known as "Bird", created the style called [bebop](!wiki).
-
 [^planned]: I’ll admit that although I was mostly speaking extemporaneously, that move was planned.
-
 [^discography]: [According to Wikipedia][7140-004]. Not counting bootlegs, unauthorized releases, etc. 
-
 [^wayne]: Early iterations of the quintet had George Coleman or Sam Rivers on saxophone, but the group didn't become truly great until Wayne joined in 1964. Just my opinion—although the stuff with Coleman and Rivers is really good too. 
 
 
