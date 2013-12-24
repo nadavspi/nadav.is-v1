@@ -13,7 +13,6 @@ activate :deploy do |deploy|
   deploy.build_before = true
 end
 
-# set :markdown_engine, :kramdown
 set :markdown_engine, :redcarpet
 set :markdown, :smartypants => true, :footnotes => true
 
