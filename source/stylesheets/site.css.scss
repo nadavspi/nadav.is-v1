@@ -3,8 +3,8 @@
 @import 'modular-scale';
 
 @import 'vendor/_normalize';
-@import 'vendor/bigfoot-default';
 
 @import 'vars';
 @import 'base';
+@import 'vendor/bigfoot-default';
 @import "modules/*";
