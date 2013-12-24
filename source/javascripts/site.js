@@ -3,3 +3,4 @@
  *= require "vendor/bigfoot.min.js"
 */
 $(".fitvids").fitVids();
+$.bigfoot();
