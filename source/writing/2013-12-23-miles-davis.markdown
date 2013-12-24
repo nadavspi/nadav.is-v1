@@ -20,21 +20,19 @@ After sharing my thought process with the group, I pulled up a [Google Image Sea
 
 Then, I told some stories.
 
-I told them that when Miles first moved to New York City, he looked for the baddest cat around, which at that time was Charlie Parker.[^bird] Miles started to hang out with Bird, and ended up playing in his group—and probably picking up the heroin addiction from him too, as many probably did. 
+I told them that when Miles first moved to New York City, he looked for the baddest cat around, which at that time was Charlie Parker.[^bird] Miles started to hang out with Bird, and ended up playing in his group—and probably picking up the heroin addiction from him too. 
 
-I explained that Miles knew how to pick the right people for whatever idea he had in his head, and then knew to let them do their thing without much instruction or rehearsal. 
+I said that Miles could pick the right people for whatever idea he had in his head, and then knew to let them do their thing without much instruction or rehearsal. 
 
-I ruminated that because Miles was so understated—personally and musically—whenever he *did* say something, it made a lasting impression. Everyone that ever played with Miles does an impression of his raspy voice and coarse language. I shared what Miles told John Coltrane when Trane was seeking and would go on and on in his solos. 
+I gave some examples of the way Miles changed the music, such as the cool jazz aesthetic in the wake of the fast, frantic style of bebop. I explained that the first quintet still defines the repertoire of straight ahead jazz today, and that the second quintet is probably more influential than any other group on the way we play today, 50 years later.
 
-I gave some examples of the way Miles changed the music: the cool jazz aesthetic in the wake of the fast, frantic style of bebop. I explained that the first quintet still defines the repertoire of straight ahead jazz today, and that the second quintet is probably more influential than any other group on the way we play today, 50 years later.
-
-I explained how, when electric music and rock &lsquo;n’ roll became popular in the late 60s, Miles embraced it and made wild, funky electric music. This was especially relevant for Patterns as we had been exploring the effect of technology on the creative fields. 
+I explained how, when electric music and rock &lsquo;n’ roll and funk became popular in the late 60s, Miles embraced it and made wild, funky electric music. This was especially relevant for Patterns as we had been exploring the effect of technology on the creative fields. 
 
 I was encouraged to see people around me nodding in interest and recognition as I talked about Jazz. I shared my worry about mythologizing our heroes. I love Miles for his creative output, not for his personality. He was a promiscuous drug addict and often took credit for tunes he didn’t write. I’m interested in the biographies of artists I admire, but I’m a lot more interested in their work.
 
 ## Suggested listening
 
-Given that Miles Davis put out 48 studio albums and 36 live albums[^discography], and that I haven't heard most of them, this list is in no way comprehensive. But it should give the newbie a taste of the diversity of the man's music and some direction for further exploration. The best way to get into Jazz is to find something you like, look up the artists, and see what else they did. That's how I started, and I'm still going strong. 
+Given that Miles Davis put out 48 studio albums and 36 live albums[^discography], and that I haven't heard most of them, this list is in no way comprehensive. But it should give the newbie a taste for the diversity of the music and some direction for further exploration. The best way to get into Jazz is to find something you like, look up the artists, and see what else they did. That's how I started, and I'm still going strong. 
 
 ### Birth of the Cool
 
@@ -55,7 +53,7 @@ Around 1956, Miles assembled what would be known as his first great quintet, wit
 
 ### Kind of Blue
 
-Supposedly the best selling Jazz album of all time and the first Jazz album I ever heard. I'm not sure how it became so well known, since they made plenty of great albums around this time, but it sure is good. The players are Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans, Paul Chambers, Jimmy Cobb. Wynton Kelly subs in for Bill Evans on piano for *Freddie Freeloader*. 
+Supposedly the best selling Jazz album of all time and the first Jazz album I ever heard. I'm not sure how it became so well known, since they made plenty of great albums around this time, but it sure is good. The players are Miles Davis, [John Coltrane][8999-001], [Cannonball Adderley][8999-002], [Bill Evans][8999-003], [Paul Chambers][8999-004], [Jimmy Cobb][8999-005]. [Wynton Kelly][8999-006] subs in for Bill Evans on piano for *Freddie Freeloader*. 
 
 <div class="spotify">
     <iframe src="https://embed.spotify.com/?uri=spotify:album:42ge6JtPfeF6FEYXCJ50Gu" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
@@ -63,7 +61,7 @@ Supposedly the best selling Jazz album of all time and the first Jazz album I ev
 
 ### The second quintet 
 
-Miles' second great quintet featured Wayne Shorter on tenor saxophone, Herbie Hancock on piano, Ron Carter on bass, and Tony Williams on drums.[^wayne] The influence of this band on Jazz musicians cannot be overstated. Collectively, we fucking love this band. 
+Miles' second great quintet had [Wayne Shorter][8999-007] on tenor saxophone, [Herbie Hancock][8999-008] on piano, [Ron Carter][8999-009] on bass, and [Tony Williams][8999-010] on drums.[^wayne] The influence of this band on Jazz musicians cannot be overstated. Collectively, we fucking love this band. 
 
 There are six studio albums by the quintet and numerous live recordings. They played mostly original compositions in the studio, and mostly standards on the road. 
 
@@ -74,7 +72,7 @@ There are six studio albums by the quintet and numerous live recordings. They pl
 
 ### Going electric
 
-The first Miles album to include electric instrument is also the last album to feature the second quintet intact: *[Miles In The Sky](!a)*, recorded in 1968. Miles' [fusion](!wiki "Jazz fusion") truly began with *[In a Silent Way](!a)* and *[Bitches Brew](!a)*, released in 1969 and 1970 respectively. 
+The first Miles album to include electric instrument is also the last album to feature the second quintet intact: *[Miles In The Sky][1431-001]*, recorded in 1968. Miles' [fusion][1431-002] truly began with *[In a Silent Way][1431-003]* and *[Bitches Brew][1431-004]*, released in 1969 and 1970 respectively. 
 
 <div class="spotify">
     <iframe src="https://embed.spotify.com/?uri=spotify:album:4HeZ7OqYlDWsXdgSQLCAdE" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
@@ -112,3 +110,17 @@ Miles' career didn't end in 1970. He took a six year hiatus starting in 1975, bu
 [1475-002]: http://en.wikipedia.org/wiki/Red_Garland
 [1475-003]: http://en.wikipedia.org/wiki/Paul_Chambers
 [1475-004]: http://en.wikipedia.org/wiki/Philly_Joe_Jones
+[1431-001]: http://www.amazon.com/gp/product/B0012GMWEI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0012GMWEI&linkCode=as2&tag=nadavis-20
+[1431-002]: http://en.wikipedia.org/wiki/Jazz_fusion
+[1431-003]: http://www.amazon.com/gp/product/B00006GO9Q/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00006GO9Q&linkCode=as2&tag=nadavis-20
+[1431-004]: http://www.amazon.com/gp/product/B00000J7SS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00000J7SS&linkCode=as2&tag=nadavis-20
+[8999-001]: http://en.wikipedia.org/wiki/John_Coltrane
+[8999-002]: http://en.wikipedia.org/wiki/Cannonball_Adderley
+[8999-003]: http://en.wikipedia.org/wiki/Bill_Evans
+[8999-004]: http://en.wikipedia.org/wiki/Paul_Chambers
+[8999-005]: http://en.wikipedia.org/wiki/Jimmy_Cobb
+[8999-006]: http://en.wikipedia.org/wiki/Wynton_Kelly
+[8999-007]: http://en.wikipedia.org/wiki/Wayne_Shorter
+[8999-008]: http://en.wikipedia.org/wiki/Herbie_Hancock
+[8999-009]: http://en.wikipedia.org/wiki/Ron_Carter
+[8999-010]: http://en.wikipedia.org/wiki/Tony_Williams
