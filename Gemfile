@@ -14,6 +14,7 @@ gem "middleman-livereload"
 gem "susy"
 gem "modular-scale"
 gem "redcarpet"
+gem "kramdown"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
