@@ -92,6 +92,7 @@ activate :livereload
 #     "Helping"
 #   end
 # end
+# helpers CustomHelpers
 
 set :css_dir, 'stylesheets'
 
