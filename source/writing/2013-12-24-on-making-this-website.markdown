@@ -16,13 +16,13 @@ I used a [modular scale][1846-006] for the site, using the ratio of a major thir
 
 ## Code
 
-This website uses [Middleman](!g “Middleman app”), my static site generator of choice. [Jekyll][1846-007] seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and [Sass][1846-008], generally adhering to <span class="sc">[SMACSS][1846-009]</span> and <span class="sc">[BEM][1846-010]</span> principles as far as splitting things up into partials and naming classes descriptively. 
+This website uses [Middleman](!g “Middleman app”), my static site generator of choice. [Jekyll][1846-007] seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and [Sass][1846-008], generally adhering to [SMACSS][1846-009] and [BEM][1846-010] principles as far as splitting things up into partials and naming classes descriptively. 
 
-I feel like the <span class="sc">[OOCSS][1846-011]/BEM</span> thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean <span class="sc">HTML</span>, I tend to use [extend](!g “sass extend”) instead of applying a classw to every element. For now, anyway.
+I feel like the [OOCSS][1846-011]/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use [extend](!g “sass extend”) instead of applying a classw to every element. For now, anyway.
 
 
 ## Layout
-This site was built *[mobile first][1846-012]* using [Susy](!g “Susy grid”) as the grid framework. I’m using the nifty *[magic grid](!g “suzy magic grid”)* thing that applies a breakpoint as soon as the specified number of columns can fit in the viewport. 
+This site was built *[mobile first][1846-012]* using [Susy](!g “Susy grid”) as the grid framework. I’m using the nifty *[magic grid](http://susy.oddbird.net/demos/magic/)* thing that applies a breakpoint as soon as the specified number of columns can fit in the viewport. 
 
 I sketched some mockups at 7am one morning during [Patterns](http://patterns.co) then put them away to work on the content. I played with some more complicated ideas for the home page before ending up with the simple layout it has now. 
 
@@ -34,7 +34,7 @@ Articles are written in [Markdown][1846-013]. They usually start in [Byword][184
 
 I'd like to give a special shout out to Brett Tersptra amazing [SearchLink][1846-017] OS X Service for making Markdown links so much easier. 
 
-Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I started out using the [redcarpet](!g “redcarpet markdown”) engine but it didn’t support them. I tried a few others and almost settled on [kramdown][1846-018] except it was stupidly difficult to get the figure/img/figcaption pattern to parse right. Eventually I found [a branch of redcarpet](https://github.com/vmg/redcarpet.git) that will support footnotes—and automatic [smart quotes](!g “jason santa maria smart quotes”)—within Middleman. Yay.[^detour] The footnotes display inline thanks to the awesome [Bigfoot](!g “Bigfoot footnote”) jQuery plugin. 
+Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I started out using the [redcarpet](https://github.com/vmg/redcarpet) engine but it didn’t support them. I tried a few others and almost settled on [kramdown][1846-018] except it was stupidly difficult to get the figure/img/figcaption pattern to parse right. Eventually I got redcarpet working for footnotes—and automatic [smart quotes](http://smartquotesforsmartpeople.com/)—within Middleman by pulling the gem directly from GitHub. Yay.[^detour] The footnotes display inline thanks to the awesome [Bigfoot](!g “Bigfoot footnote”) jQuery plugin. 
 
 
 [^tundra]: [Here’s a cool article by Ludwig on the making of FF Tundra](http://ilovetypography.com/2011/10/05/the-making-of-ff-tundra/).
@@ -65,4 +65,4 @@ Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I
 [1846-017]: http://brettterpstra.com/projects/searchlink/
 [1846-018]: http://kramdown.gettalong.org/
 [1846-019]: http://fieldnotesbrand.com/
-[1846-020]: http://www.artsjournal.com/rifftides/2013/06/weekend-extra-dizzy-gillespie-red-mitchell.html
+[1846-020]: http://www.youtube.com/watch?v=_htGBKvXWpI
