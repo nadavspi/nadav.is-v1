@@ -1,0 +1,23 @@
+.archive
+  @extend %wrap--normal
+  ol
+    list-style-type: none
+    padding-left: 0
+
+.archive__post
+  +clearfix
+  margin-bottom: ms(-3)
+  padding-top: ms(-3)
+  border-top: 1px solid $light-grey
+  &:last-child
+    padding-bottom: ms(-3)
+    border-bottom: 1px solid $light-grey
+  p
+    margin: 0
+  .date
+    color: #888
+  +at-breakpoint($medium)
+    .title
+      float: left
+    .date
+      float: right
