@@ -17,10 +17,13 @@ per_page: 20
 
 <% if page_articles %>
 <section class="archive">
+  <h1 class="visuallyhidden">Archive</h1>
   <ol>
     <% page_articles.each_with_index do |article, i| %>
       <li class="archive__post">
-          <p class="title"><%= link_to article.title, article %></p>
+          <header>
+            <h3 class="title"><%= link_to article.title, article %></h3>
+          </header>
           <p class="date sc"><%= article.date.strftime('%b %e, %Y') %></p>
       </li>
     <% end %>
