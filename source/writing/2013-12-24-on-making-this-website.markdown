@@ -27,7 +27,7 @@ This site was built *[mobile first][1846-012]* using [Susy](!g “Susy grid”) 
 I sketched some mockups at 7am one morning during [Patterns](http://patterns.co) then put them away to work on the content. I played with some more complicated ideas for the home page before ending up with the simple layout it has now. 
 
 <figure>
-    <img src="/writing/on-making-this-website/mockup.jpg" alt="First mockup of nadav.is">
+    <img src=/images/articles/mockup.jpg alt="First mockup of nadav.is">
     <figcaption>The first mockup of this website.</figcaption>
 </figure>
 
