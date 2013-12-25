@@ -1,19 +1,19 @@
 body > header
   margin-bottom: ms(-1)
   +clearfix
+  h1
+    font-weight: normal
+    margin-bottom: ms(-4)
+    a
+      @extend %link--orange
+    +at-breakpoint($large)
+      float: left
   nav
     text-align: center
     font-size: ms(-1)
     display: block
     +at-breakpoint($medium)
       font-size: ms(0)
-    h1
-      font-weight: normal
-      margin-bottom: ms(-4)
-      a
-        @extend %link--orange
-      +at-breakpoint($large)
-        float: left
     ul
       margin: 0
       padding: 0
