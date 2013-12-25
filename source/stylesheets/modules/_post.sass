@@ -9,11 +9,8 @@
       text-align: center
       font-size: 0.8em
 
-.post + .post
-  margin-top: 5.961rem
-
 .post + nav
-  margin-top: 5.961rem
+  margin-top: 4.15rem
 
 .post__header
   margin-bottom: ms(5)
@@ -26,12 +23,16 @@
 
 
 
-.post__next, .post__previous
-  display: block
+.post__nav
   text-align: center
   font-size: ms(-1)
   +at-breakpoint($medium)
     font-size: 1rem
+  a
+    display: block
+  .archive
+    margin-top: ms(3)
+
 
 // +at-breakpoint($medium)
   // .post__next

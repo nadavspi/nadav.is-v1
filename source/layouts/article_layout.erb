@@ -8,15 +8,18 @@
     <%= yield %>
   </article>
   
+  <nav class="post__nav">
   <% if current_article.previous_article || current_article.next_article %>
-    <nav>
+
       <%= link_to "Next: #{current_article.next_article.title}", 
           current_article.next_article, 
           class: "post__next" if current_article.next_article %>
       <%= link_to "Previous: #{current_article.previous_article.title}", 
           current_article.previous_article, 
           class: "post__previous" if current_article.previous_article %>
-    </nav>
+
   <% end %>
+  <a href="/writing" class="archive">Archive</a>
+  </nav>
 
 <% end %> 
