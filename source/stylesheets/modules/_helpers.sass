@@ -33,13 +33,17 @@
   @extend %center--margin
 
 .wide
-  margin-left: -6.485rem
-  margin-right: -6.485rem
+  +at-breakpoint($large)
+    margin-left: -6.485rem
+    margin-right: -6.485rem
 
 .half
-  +at-breakpoint($large)
-    +span-columns(6)
+  +at-breakpoint($medium)
+    +span-columns(4)
     +nth-omega(2n)
+
+.clearfix
+  +clearfix
 
 .visuallyhidden 
   border: 0
