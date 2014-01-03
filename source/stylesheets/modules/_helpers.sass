@@ -36,6 +36,11 @@
   margin-left: -6.485rem
   margin-right: -6.485rem
 
+.half
+  +at-breakpoint($large)
+    +span-columns(6)
+    +nth-omega(2n)
+
 .visuallyhidden 
   border: 0
   clip: rect(0 0 0 0)
