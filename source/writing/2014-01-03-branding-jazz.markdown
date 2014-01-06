@@ -1,5 +1,5 @@
 ---
-title: Jazz at Lincoln Center as a brand
+title: Branding Jazz
 date: 2014-01-03
 tags: jazz design
 ---
