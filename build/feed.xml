@@ -190,7 +190,7 @@
     <link rel="alternate" href="http://nadav.is/writing/on-making-this-website/"/>
     <id>http://nadav.is/writing/on-making-this-website/</id>
     <published>2013-12-24T00:00:00Z</published>
-    <updated>2013-12-25T18:26:46-05:00</updated>
+    <updated>2014-01-06T13:30:22-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -208,7 +208,7 @@
 
 &lt;p&gt;This website uses &lt;a href="!g%20“Middleman%20app”"&gt;Middleman&lt;/a&gt;, my static site generator of choice. &lt;a href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and &lt;a href="http://sass-lang.com/"&gt;Sass&lt;/a&gt;, generally adhering to &lt;a href="http://smacss.com/"&gt;SMACSS&lt;/a&gt; and &lt;a href="http://bem.info/method/"&gt;BEM&lt;/a&gt; principles as far as splitting things up into partials and naming classes descriptively. &lt;/p&gt;
 
-&lt;p&gt;I feel like the &lt;a href="http://oocss.org/"&gt;OOCSS&lt;/a&gt;/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use &lt;a href="!g%20“sass%20extend”"&gt;extend&lt;/a&gt; instead of applying a classw to every element. For now, anyway.&lt;/p&gt;
+&lt;p&gt;I feel like the &lt;a href="http://oocss.org/"&gt;OOCSS&lt;/a&gt;/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use &lt;a href="!g%20“sass%20extend”"&gt;extend&lt;/a&gt; instead of applying a class to every element. For now, anyway.&lt;/p&gt;
 
 &lt;h2&gt;Layout&lt;/h2&gt;
 
