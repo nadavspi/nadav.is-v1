@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nadav Spiegelman</title>
+  <id>http://nadav.is/writing</id>
+  <link href="http://nadav.is/writing"/>
+  <link href="http://nadav.is/writing/feed.xml" rel="self"/>
+  <updated>2014-01-03T00:00:00Z</updated>
+  <author>
+    <name>Nadav Spiegelman</name>
+  </author>
+  <entry>
+    <title>Jazz at Lincoln Center as a brand</title>
+    <link rel="alternate" href="http://nadav.is/writing/jazz-at-lincoln-center-as-a-brand/"/>
+    <id>http://nadav.is/writing/jazz-at-lincoln-center-as-a-brand/</id>
+    <published>2014-01-03T00:00:00Z</published>
+    <updated>2014-01-03T18:12:06-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I was hanging out at &lt;a href="http://jalc.org"&gt;Jazz at Lincoln Center&lt;/a&gt; the other day, checking out Wynton Marsalis Septet. The music was—of course—pretty spectacular, but I was really struck by the brand identity and literature.&lt;sup id="fnref1"&gt;&lt;a href="#fn1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+
+&lt;p&gt;Well, now I know why: the branding was done by &lt;a href="http://thegreatdiscontent.com/paula-scher"&gt;Paula Scher&lt;/a&gt; at &lt;a href="http://www.pentagram.com/"&gt;Pentagram&lt;/a&gt;. The brand identity was developed in 2004, and refreshed in 2010. &lt;/p&gt;
+
+&lt;p&gt;There are lots of photos in &lt;a href="http://new.pentagram.com/2013/10/new-work-jazz-at-lincoln-center/"&gt;this article about the refresh on the Pentagram blog&lt;/a&gt;. I like the typeface which is based on &lt;a href="http://www.houseind.com/fonts/neutraface2"&gt;Neutraface 2&lt;/a&gt;, although the filled in letters can get intense. The print pieces were done in-house at Jazz at Lincoln Center and look fantastic. Quality photography helps too.&lt;/p&gt;
+
+&lt;div class="wide"&gt;
+&lt;figure&gt;
+    &lt;img src="jalc.jpg" alt="Print material for JALC"&gt;
+    &lt;figcaption&gt;Print pieces designed by Luis Bravo and his team at Jazz at Lincoln Center.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;
+    &lt;img src="jalc-typeface.jpg" alt="JALC's Jelly Roll Roman"&gt;
+    &lt;figcaption&gt;The Jelly Roll typeface, based on Neutraface 2.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What’s &lt;em&gt;really&lt;/em&gt; interesting is the choice to remove “at lincoln center” from the logo. From &lt;a href="http://new.pentagram.com/2013/10/new-work-jazz-at-lincoln-center/"&gt;the Pentagram blog post&lt;/a&gt;: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Now that Jazz is recognized as a major cultural institution in its own right, the update clears away the “at Lincoln Center” and leaves the organization as exactly what it is: Jazz&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;“We had hoped that the organization would eventually ‘own’ Jazz and that any other explanation of the place would become unnecessary,” says Scher. “The new identity formalizes this arrangement, which was the original intent.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Uh, yeah. I’ve never heard anyone at &lt;abbr&gt;JALC&lt;/abbr&gt; refer to it as just “Jazz” (like, &amp;ldquo;Welcome to Jazz. It’s gonna be a great set!&amp;rdquo;) so I’ll assume they don’t. Because to say that &lt;abbr&gt;JALC&lt;/abbr&gt; simply &lt;em&gt;is&lt;/em&gt; Jazz would be fucking weird, if not sinister. &amp;ldquo;What is Jazz?&amp;rdquo; is one of my least favorite conversation topics in the world, so I&amp;rsquo;ll leave it at that. &lt;/p&gt;
+
+&lt;div class="footnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+
+&lt;li id="fn1"&gt;
+&lt;p&gt;The &lt;a href="http://jalc.org"&gt;website&lt;/a&gt; is nice too—much better than most Jazz sites—but a little cluttered and confusing. I like the pairing of &lt;a href="http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/"&gt;Brandon Grotesque&lt;/a&gt; and &lt;a href="http://www.myfonts.com/fonts/garagefonts/freight-text-pro/"&gt;Freight Text Pro&lt;/a&gt;.&amp;nbsp;&lt;a href="#fnref1" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Two principles for making better websites</title>
+    <link rel="alternate" href="http://nadav.is/writing/two-principles-for-making-better-websites/"/>
+    <id>http://nadav.is/writing/two-principles-for-making-better-websites/</id>
+    <published>2014-01-02T00:00:00Z</published>
+    <updated>2014-01-02T23:53:18-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Given that most musicians don’t have the budget for a professional website but also can’t be expected to spend years learning the craft of web design, I’d like to offer a couple of important principles for making better websites, and a quick example of how they can be applied. &lt;/p&gt;
+
+&lt;p&gt;If you’re making your own website or even using a service like Squarespace or WordPress &lt;a href="http://nadav.is/writing/how-to-easily-make-websites-that-dont-suck/"&gt;as I suggested prevously&lt;/a&gt;, I strongly encourage you to keep these suggestions in mind. &lt;/p&gt;
+
+&lt;h3&gt;How much time you got?&lt;/h3&gt;
+
+&lt;p&gt;If you only have five seconds, here&amp;rsquo;s what I want you to take away from this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Choose readable color combinations for the text and background. &lt;/li&gt;
+&lt;li&gt;Make the text bigger.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you have five minutes, read the rest of this article. If you have fifteen minutes, read the rest of this article and then read &lt;em&gt;&lt;a href="http://practicaltypography.com/typography-in-ten-minutes.html"&gt;Typography in ten minutes&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Think about visual contrast&lt;/h2&gt;
+
+&lt;p&gt;One of the most common issues I see with music websites is poor contrast, especially in combinations of text and background colors.&lt;/p&gt;
+
+&lt;p&gt;There’s a good reason why so many websites—and printed material like books and newspapers—use black text on a white background. That reason is contrast.&lt;/p&gt;
+
+&lt;p&gt;Start with black text on a white background and go from there. Don’t sacrifice your users’ reading experience to feel clever or creative. That means no black on red, no purple on black, and definitely no light grey on dark grey.&lt;/p&gt;
+
+&lt;p&gt;Visual contrast applies to more than color. If you’re interested, check out &lt;em&gt;&lt;a href="http://alistapart.com/article/contrastandmeaning"&gt;Contrast and Meaning&lt;/a&gt;&lt;/em&gt;, a great article by Andy Rutledge.&lt;/p&gt;
+
+&lt;h2&gt;Think about typography&lt;/h2&gt;
+
+&lt;p&gt;Another common issue with music websites—well, websites in general—is text that’s just too damn small. A good rule of thumb for the web is to make body text at least 16px.&lt;/p&gt;
+
+&lt;p&gt;The next things to think about after font size are &lt;em&gt;line spacing&lt;/em&gt;, and &lt;em&gt;line length&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Here are the relevant parts of &lt;em&gt;&lt;a href="http://practicaltypography.com/typography-in-ten-minutes.html"&gt;Typography in ten minutes&lt;/a&gt;&lt;/em&gt; from the amazing &lt;em&gt;Practical Typography&lt;/em&gt; book:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=sc&gt;point size&lt;/span&gt; is the size of the let­ters. In print, the most com­fort­able range for body text is &lt;strong&gt;10–12 point&lt;/strong&gt;. On the web, the range is &lt;strong&gt;15–25 pixels&lt;/strong&gt;. Not every font ap­pears equal­ly large at a giv­en point size, so be pre­pared to ad­just as necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=sc&gt;line spacing&lt;/span&gt; is the ver­ti­cal dis­tance be­tween lines. It should be &lt;strong&gt;120–145%&lt;/strong&gt; of the point size. In word proces­sors, use the “Exact” line-spac­ing op­tion to achieve this. The de­fault sin­gle-line op­tion is too tight; the 1½-line op­tion is too loose. In CSS, use line-height.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=sc&gt;line length&lt;/span&gt; is the hor­i­zon­tal width of the text block. Line length should be an av­er­age of &lt;strong&gt;45–90&lt;/strong&gt; characters per line (use your word-count func­tion) or &lt;strong&gt;2–3 low­er­case alphabets&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;A quick example&lt;/h2&gt;
+
+&lt;p&gt;Here’s an example from the schedule for &lt;a href="http://www.smallsjazzclub.com/"&gt;Smalls Jazz Club&lt;/a&gt;. It&amp;rsquo;s not great. &lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;a href="smalls-before.jpg"&gt;
+      &lt;img src="smalls-before.jpg" alt="Schedule from the Smalls Jazz Club website"&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;Schedule for Smalls Jazz Club. &lt;a href="/feed.xmlsmalls-before.jpg"&gt;View full size.&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Black text on a dark background makes for poor readability, especially as you get further to the right where the instruments are listed. I have to strain my eyes to read it. The background image itself is cheesy and makes the website look dated, but I’ll let it live for this exercise. &lt;/p&gt;
+
+&lt;p&gt;The typeface is &lt;a href="http://en.wikipedia.org/wiki/Courier_(typeface)"&gt;Courier&lt;/a&gt;. It looks a lot like a typewriter font, and that’s because it is. A strange choice for a Jazz club, especially one as hip as Smalls. The size is acceptable, but could be a little bigger for my taste.&lt;/p&gt;
+
+&lt;p&gt;Three of the four musicians’ names are bold; it looks like Dena DeRose is less important than the others. Evidently, the bold names are just links—Dena DeRose doesn’t have a bio page on the Smalls website, so she doesn’t get a link. &lt;/p&gt;
+
+&lt;h3&gt;Five minutes later&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Keeping the principles of contrast and typography in mind, I spent less than five minutes with this little chunk of the internet and made some improvements. I didn’t touch the content itself, only the presentation.  &lt;/p&gt;
+
+&lt;div class="wide"&gt;
+  &lt;figure class="half"&gt;
+    &lt;a href="smalls-before.jpg"&gt;
+      &lt;img src="smalls-before.jpg" alt="Schedule from the Smalls Jazz Club website"&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;Before &amp;bullet; &lt;a href="smalls-before.jpg"&gt;View full size.&lt;/a&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure class="half"&gt;
+    &lt;a href="smalls-after.jpg"&gt;
+      &lt;img src="smalls-after.jpg" alt="My improvements for the Smalls schedule"&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;After &amp;bullet; &lt;a href="/feed.xmlsmalls-after.jpg"&gt;View full size.&lt;/a&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here’s what I did:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Changed the text color to white for better contrast.&lt;/li&gt;
+&lt;li&gt;Changed the font to Georgia—a very uninteresting choice, but better than Courier.&lt;/li&gt;
+&lt;li&gt;Made the text bigger.&lt;/li&gt;
+&lt;li&gt;Made the headline bold instead of bold &lt;em&gt;and&lt;/em&gt; italic, which is &lt;a href="http://practicaltypography.com/bold-or-italic.html"&gt;generally a bad idea&lt;/a&gt;. I also added a little bit of space between the letters (using the &lt;abbr&gt;CSS&lt;/abbr&gt; &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing"&gt;letter-spacing&lt;/a&gt; property) to give the letters some breathing room.&lt;/li&gt;
+&lt;li&gt;Made links underlined instead of bold.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It still isn&amp;rsquo;t great, but it’s not bad for a couple of minutes. I no longer have to lean in and strain my eyes see who&amp;rsquo;s playing tonight. Imagine what we could do given more time and a blank slate.&lt;/p&gt;
+
+&lt;p&gt;I urge you to design for your users and think about visual contrast and good typography.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ten Jazz albums you should have</title>
+    <link rel="alternate" href="http://nadav.is/writing/ten-jazz-albums-you-should-have/"/>
+    <id>http://nadav.is/writing/ten-jazz-albums-you-should-have/</id>
+    <published>2013-12-25T00:00:00Z</published>
+    <updated>2013-12-25T01:59:08-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;As always, this list is not comprehensive—I could probably make fifty of these without repeating myself and have them all be great.&lt;/p&gt;
+
+&lt;p&gt;You may notice all of these are old, from the 50&amp;rsquo;s and 60&amp;rsquo;s. Consider that a form of encouragement to go out and find newer (and older) stuff that&amp;rsquo;s great too.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ella Fitzgerald - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B0000046QI/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0000046QI&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Ella in Berlin: Mack the Knife&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;John Coltrane - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B0000A118M/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0000A118M&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;A Love Supreme&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Cannonball Adderley - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B0012S5A0E/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0012S5A0E&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;The Cannonball Adderley Sextet in New York&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Oscar Peterson - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B0000047G8/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0000047G8&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Trio Live in Chicago&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Wayne Shorter - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B00000I8UH/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00000I8UH&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Speak No Evil&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Ahmad Jamal - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B000006EJ4/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000006EJ4&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Cross-Country Tour&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Bill Evans - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B000000Y2A/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000000Y2A&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Explorations&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Charles Mingus - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B00000I14Z/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00000I14Z&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Mingus Ah Um&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Wes Montgomery &amp;amp; Wynton Kelly Trio - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B00000470Y/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00000470Y&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Smokin&amp;#39; at the Half Note&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Duke Ellington - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B008NEZOCO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B008NEZOCO&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;&amp;hellip;And His Mother Called Him Bill&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  <entry>
+    <title>On making this website</title>
+    <link rel="alternate" href="http://nadav.is/writing/on-making-this-website/"/>
+    <id>http://nadav.is/writing/on-making-this-website/</id>
+    <published>2013-12-24T00:00:00Z</published>
+    <updated>2013-12-25T18:26:46-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;This is my website. There are many like it, but &lt;a href="http://frankchimero.com/blog/2013/12/homesteading-2014/"&gt;this one is mine&lt;/a&gt;. The source code is &lt;a href="https://github.com/nadavspi/nadav.is"&gt;available on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Typography&lt;/h2&gt;
+
+&lt;p&gt;The typeface used on this site is the lovely &lt;a href="https://www.fontfont.com/fonts/tundra"&gt;FF Tundra&lt;/a&gt; by &lt;a href="http://www.ludwigtype.de/"&gt;Ludwig Übele&lt;/a&gt;.&lt;sup id="fnref1"&gt;&lt;a href="#fn1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; I&amp;rsquo;m in love with FF Tundra. I came across it a few months ago, became totally obsessed with it, and couldn&amp;rsquo;t wait for an excuse to use it. When I decided to build this website, I immediately knew the time had come to use Tundra. It was the first design choice for this site, and the first time I ever purchased a font. I thought about using a second font with it and tried out a bunch of combinations, but ultimately decided to stick with Tundra for everything.&lt;sup id="fnref2"&gt;&lt;a href="#fn2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+
+&lt;p&gt;I wanted a comfortable font size—large but not &lt;a href="http://www.zeldman.com/"&gt;Zeldman&lt;/a&gt; or &lt;a href="http://trentwalton.com/"&gt;Trent Walton&lt;/a&gt; large&lt;sup id="fnref3"&gt;&lt;a href="#fn3" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;—and settled on 22px at the largest breakpoint. Funny story: For the week I spent developing this site, I was viewing it at 110% zoom. Made for an interesting surprise when I deployed it.&lt;/p&gt;
+
+&lt;p&gt;I used a &lt;a href="http://modularscale.com/"&gt;modular scale&lt;/a&gt; for the site, using the ratio of a major third in music (4:5 or 1.25). Because who doesn&amp;rsquo;t like a major third? And I double stop major tenths on the bass all the damn time.&lt;sup id="fnref4"&gt;&lt;a href="#fn4" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+
+&lt;h2&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;This website uses &lt;a href="!g%20“Middleman%20app”"&gt;Middleman&lt;/a&gt;, my static site generator of choice. &lt;a href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and &lt;a href="http://sass-lang.com/"&gt;Sass&lt;/a&gt;, generally adhering to &lt;a href="http://smacss.com/"&gt;SMACSS&lt;/a&gt; and &lt;a href="http://bem.info/method/"&gt;BEM&lt;/a&gt; principles as far as splitting things up into partials and naming classes descriptively. &lt;/p&gt;
+
+&lt;p&gt;I feel like the &lt;a href="http://oocss.org/"&gt;OOCSS&lt;/a&gt;/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use &lt;a href="!g%20“sass%20extend”"&gt;extend&lt;/a&gt; instead of applying a classw to every element. For now, anyway.&lt;/p&gt;
+
+&lt;h2&gt;Layout&lt;/h2&gt;
+
+&lt;p&gt;This site was built &lt;em&gt;&lt;a href="http://www.abookapart.com/products/mobile-first"&gt;mobile first&lt;/a&gt;&lt;/em&gt; using &lt;a href="!g%20“Susy%20grid”"&gt;Susy&lt;/a&gt; as the grid framework. I’m using the nifty &lt;em&gt;&lt;a href="http://susy.oddbird.net/demos/magic/"&gt;magic grid&lt;/a&gt;&lt;/em&gt; thing that applies a breakpoint as soon as the specified number of columns can fit in the viewport. &lt;/p&gt;
+
+&lt;p&gt;I sketched some mockups at 7am one morning during &lt;a href="http://patterns.co"&gt;Patterns&lt;/a&gt; then put them away to work on the content. I played with some more complicated ideas for the home page before ending up with the simple layout it has now. &lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=/images/articles/mockup.jpg alt="First mockup of nadav.is"&gt;
+    &lt;figcaption&gt;The first mockup of this website.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Writing&lt;/h2&gt;
+
+&lt;p&gt;Articles are written in &lt;a href="http://daringfireball.net/projects/markdown/"&gt;Markdown&lt;/a&gt;. They usually start in &lt;a href="http://bywordapp.com/"&gt;Byword&lt;/a&gt; on the Mac or &lt;a href="http://omz-software.com/editorial/"&gt;Editorial&lt;/a&gt; on the iPad&lt;sup id="fnref5"&gt;&lt;a href="#fn5" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt; until I’m ready to see them in context, at which point they&amp;rsquo;re moved into the development branch in the repo and into &lt;a href="http://www.hanselman.com/tools/"&gt;Sublime Text&lt;/a&gt; for editing. &lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to give a special shout out to Brett Tersptra amazing &lt;a href="http://brettterpstra.com/projects/searchlink/"&gt;SearchLink&lt;/a&gt; OS X Service for making Markdown links so much easier. &lt;/p&gt;
+
+&lt;p&gt;Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I started out using the &lt;a href="https://github.com/vmg/redcarpet"&gt;redcarpet&lt;/a&gt; engine but it didn’t support them. I tried a few others and almost settled on &lt;a href="http://kramdown.gettalong.org/"&gt;kramdown&lt;/a&gt; except it was stupidly difficult to get the figure/img/figcaption pattern to parse right. Eventually I got redcarpet working for footnotes—and automatic &lt;a href="http://smartquotesforsmartpeople.com/"&gt;smart quotes&lt;/a&gt;—within Middleman by pulling the gem directly from GitHub. Yay.&lt;sup id="fnref6"&gt;&lt;a href="#fn6" rel="footnote"&gt;6&lt;/a&gt;&lt;/sup&gt; The footnotes display inline thanks to the awesome &lt;a href="!g%20“Bigfoot%20footnote”"&gt;Bigfoot&lt;/a&gt; jQuery plugin. &lt;/p&gt;
+
+&lt;div class="footnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+
+&lt;li id="fn1"&gt;
+&lt;p&gt;&lt;a href="http://ilovetypography.com/2011/10/05/the-making-of-ff-tundra/"&gt;Here’s a cool article by Ludwig on the making of FF Tundra&lt;/a&gt;.&amp;nbsp;&lt;a href="#fnref1" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn2"&gt;
+&lt;p&gt;Honorable mentions for Museo Sans, FF Milo, Brandon Grotesque, and Tungsten. &amp;nbsp;&lt;a href="#fnref2" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn3"&gt;
+&lt;p&gt;Not that there’s anything wrong with that. &amp;nbsp;&lt;a href="#fnref3" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn4"&gt;
+&lt;p&gt;Thanks, &lt;a href="http://www.youtube.com/watch?v=_htGBKvXWpI"&gt;Red Mitchell&lt;/a&gt;. I love you! &amp;nbsp;&lt;a href="#fnref4" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn5"&gt;
+&lt;p&gt;Well, half of the &lt;a href="/writing/miles-davis"&gt;Miles Davis post&lt;/a&gt; was scribbled in a &lt;a href="http://fieldnotesbrand.com/"&gt;Field Notes&lt;/a&gt; notebook on the Subway—because sometimes you can&amp;rsquo;t interrupt the flow, but still have to get places.&amp;nbsp;&lt;a href="#fnref5" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn6"&gt;
+&lt;p&gt;I took a detour trying to make a Middleman helper function to generate my figure/img/figcaption blocks—borrowing from &lt;a href="https://github.com/eshiota/middleman-sushiplate"&gt;Middleman Sushiplate&lt;/a&gt;—but that stuff seems to broken right now. Will try again some time. &lt;a href="https://github.com/opattison/jekyll-figure-image-tag"&gt;There’s a working plugin for jekyll&lt;/a&gt;. :-(&amp;nbsp;&lt;a href="#fnref6" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Miles Davis</title>
+    <link rel="alternate" href="http://nadav.is/writing/miles-davis/"/>
+    <id>http://nadav.is/writing/miles-davis/</id>
+    <published>2013-12-23T00:00:00Z</published>
+    <updated>2013-12-24T19:27:44-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;“I can’t talk about Miles Davis—he’s Miles Davis!” The assignment was to talk about people we admire and explain what makes them great. I didn’t think everyone in the group at &lt;a href="http://patterns.co"&gt;Patterns&lt;/a&gt;—designers, entrepreneurs, and film people—wanted to hear me prattle about Jazz for a week, so I tried to think of some heroes that weren’t musicians.  &lt;/p&gt;
+
+&lt;p&gt;I couldn’t. I was going to talk about Miles Davis. I was conflicted about presenting him as a &lt;em&gt;hero&lt;/em&gt;. I worried about mythologizing a gruff drug addict into a saintly genius. Still, one has to separate the person from the work.  &lt;/p&gt;
+
+&lt;p&gt;After sharing my thought process with the group, I pulled up a &lt;a href="https://www.google.com/search?site=&amp;amp;tbm=isch&amp;amp;source=hp&amp;amp;biw=1440&amp;amp;bih=802&amp;amp;q=miles+davis&amp;amp;oq=miles+davison"&gt;Google Image Search for Miles&lt;/a&gt; on the TV, looked at it for a few seconds, and said: “Just look at this motherfucker. Miles Davis epitomizes cool.”&lt;sup id="fnref1"&gt;&lt;a href="#fn1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=/images/articles/Miles.jpg alt=“Miles Davis”&gt;
+    &lt;figcaption&gt;
+        &amp;ldquo;Just look at this motherfucker.&amp;rdquo; Photo by Paul Talumbo.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Then, I told some stories.&lt;/p&gt;
+
+&lt;p&gt;I told them that when Miles first moved to New York City, he looked for the baddest cat around, which at that time was Charlie Parker.&lt;sup id="fnref2"&gt;&lt;a href="#fn2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt; Miles started to hang out with Bird, and ended up playing in his group—and probably picking up the heroin addiction from him too. &lt;/p&gt;
+
+&lt;p&gt;I said that Miles could pick the right people for whatever idea he had in his head, and then knew to let them do their thing without much instruction or rehearsal. &lt;/p&gt;
+
+&lt;p&gt;I gave some examples of the way Miles changed the music, such as the cool jazz aesthetic in the wake of the fast, frantic style of bebop. I explained that the first quintet still defines the repertoire of straight ahead jazz today, and that the second quintet is probably more influential than any other group on the way we play today, 50 years later.&lt;/p&gt;
+
+&lt;p&gt;I explained how, when electric music and rock &amp;lsquo;n’ roll and funk became popular in the late 60s, Miles embraced it and made wild, funky electric music. This was especially relevant for Patterns as we had been exploring the effect of technology on the creative fields. &lt;/p&gt;
+
+&lt;p&gt;I was encouraged to see people around me nodding in interest and recognition as I talked about Jazz. I shared my worry about mythologizing our heroes. I love Miles for his creative output, not for his personality. He was a promiscuous drug addict and often took credit for tunes he didn’t write. I’m interested in the biographies of artists I admire, but I’m a lot more interested in their work.&lt;/p&gt;
+
+&lt;h2&gt;Suggested listening&lt;/h2&gt;
+
+&lt;p&gt;Given that Miles Davis put out 48 studio albums and 36 live albums&lt;sup id="fnref3"&gt;&lt;a href="#fn3" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;, and that I haven&amp;rsquo;t heard most of them, this list is in no way comprehensive. But it should give the newbie a taste for the diversity of the music and some direction for further exploration. The best way to get into Jazz is to find something you like, look up the artists, and see what else they did. That&amp;rsquo;s how I started, and I&amp;rsquo;m still going strong. &lt;/p&gt;
+
+&lt;h3&gt;Birth of the Cool&lt;/h3&gt;
+
+&lt;p&gt;A compilation documenting a nine piece group that recorded in 1949 and 1950. Considered paradigmatic for the so-called &lt;em&gt;&lt;a href="http://en.wikipedia.org/wiki/Cool_jazz"&gt;cool jazz&lt;/a&gt;&lt;/em&gt; subgenre, the band featured colorful, orchestral-ish arrangements by [Gil Evans] that are informed by the &amp;ldquo;hot&amp;rdquo; &lt;a href="http://en.wikipedia.org/wiki/Bebop"&gt;bebop&lt;/a&gt; style of the 1940&amp;rsquo;s but mark an important departure from it. This music is noticeably more chilled out and more accessibly melodic than bebop, which perhaps requires a greater understanding of Jazz to be appreciated. &lt;/p&gt;
+
+&lt;div class="spotify"&gt;
+    &lt;iframe src="https://embed.spotify.com/?uri=spotify:album:3wG8DcAJVgr7sbWNvKanzS" width="300" height="300" frameborder="0" allowtransparency="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;The first quintet&lt;/h3&gt;
+
+&lt;p&gt;Around 1956, Miles assembled what would be known as his first great quintet, with &lt;a href="http://en.wikipedia.org/wiki/John_Coltrane"&gt;John Coltrane&lt;/a&gt; on tenor saxophone, &lt;a href="http://en.wikipedia.org/wiki/Red_Garland"&gt;Red Garland&lt;/a&gt; on piano, &lt;a href="http://en.wikipedia.org/wiki/Paul_Chambers"&gt;Paul Chambers&lt;/a&gt; on bass, and &lt;a href="http://en.wikipedia.org/wiki/Philly_Joe_Jones"&gt;Philly Joe Jones&lt;/a&gt; on drums. My favorite albums of this group all came from the same recording session in 1956: &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B000000YAL/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000000YAL&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Relaxin&amp;#39; with the Miles Davis Quintet&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B000000YLS/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000000YLS&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Steamin&amp;#39; with the Miles Davis Quintet&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B000000Y7F/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000000Y7F&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Cookin&amp;#39; with the Miles Davis Quintet&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B000000YGI/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000000YGI&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Workin&amp;#39; with the Miles Davis Quintet&lt;/a&gt;&lt;/em&gt;. They&amp;rsquo;re all awesome, and Jazz cats all over the world still play a lot of the same tunes in the same keys because of these records.&lt;/p&gt;
+
+&lt;div class="spotify"&gt;
+    &lt;iframe src="https://embed.spotify.com/?uri=spotify:album:1mQCpyWoI4vTore21DgOQG" width="300" height="300" frameborder="0" allowtransparency="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Kind of Blue&lt;/h3&gt;
+
+&lt;p&gt;Supposedly the best selling Jazz album of all time and the first Jazz album I ever heard. I&amp;rsquo;m not sure how it became so well known, since they made plenty of great albums around this time, but it sure is good. The players are Miles Davis, &lt;a href="http://en.wikipedia.org/wiki/John_Coltrane"&gt;John Coltrane&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Cannonball_Adderley"&gt;Cannonball Adderley&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Bill_Evans"&gt;Bill Evans&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Paul_Chambers"&gt;Paul Chambers&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Jimmy_Cobb"&gt;Jimmy Cobb&lt;/a&gt;. &lt;a href="http://en.wikipedia.org/wiki/Wynton_Kelly"&gt;Wynton Kelly&lt;/a&gt; subs in for Bill Evans on piano for &lt;em&gt;Freddie Freeloader&lt;/em&gt;. &lt;/p&gt;
+
+&lt;div class="spotify"&gt;
+    &lt;iframe src="https://embed.spotify.com/?uri=spotify:album:42ge6JtPfeF6FEYXCJ50Gu" width="300" height="300" frameborder="0" allowtransparency="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;The second quintet&lt;/h3&gt;
+
+&lt;p&gt;Miles&amp;#39; second great quintet had &lt;a href="http://en.wikipedia.org/wiki/Wayne_Shorter"&gt;Wayne Shorter&lt;/a&gt; on tenor saxophone, &lt;a href="http://en.wikipedia.org/wiki/Herbie_Hancock"&gt;Herbie Hancock&lt;/a&gt; on piano, &lt;a href="http://en.wikipedia.org/wiki/Ron_Carter"&gt;Ron Carter&lt;/a&gt; on bass, and &lt;a href="http://en.wikipedia.org/wiki/Tony_Williams"&gt;Tony Williams&lt;/a&gt; on drums.&lt;sup id="fnref4"&gt;&lt;a href="#fn4" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt; The influence of this band on Jazz musicians cannot be overstated. Collectively, we fucking love this band. &lt;/p&gt;
+
+&lt;p&gt;There are six studio albums by the quintet and numerous live recordings. They played mostly original compositions in the studio, and mostly standards on the road. &lt;/p&gt;
+
+&lt;div class="spotify"&gt;
+    &lt;iframe src="https://embed.spotify.com/?uri=spotify:album:7buEUXT132AA4FPswvh9tV" width="300" height="300" frameborder="0" allowtransparency="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Going electric&lt;/h3&gt;
+
+&lt;p&gt;The first Miles album to include electric instrument is also the last album to feature the second quintet intact: &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B0012GMWEI/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0012GMWEI&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Miles In The Sky&lt;/a&gt;&lt;/em&gt;, recorded in 1968. Miles&amp;#39; &lt;a href="http://en.wikipedia.org/wiki/Jazz_fusion"&gt;fusion&lt;/a&gt; truly began with &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B00006GO9Q/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00006GO9Q&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;In a Silent Way&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B00000J7SS/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00000J7SS&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Bitches Brew&lt;/a&gt;&lt;/em&gt;, released in 1969 and 1970 respectively. &lt;/p&gt;
+
+&lt;div class="spotify"&gt;
+    &lt;iframe src="https://embed.spotify.com/?uri=spotify:album:4HeZ7OqYlDWsXdgSQLCAdE" width="300" height="300" frameborder="0" allowtransparency="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;And beyond&lt;/h3&gt;
+
+&lt;p&gt;Miles&amp;#39; career didn&amp;rsquo;t end in 1970. He took a six year hiatus starting in 1975, but otherwise continued to play until his death in 1991.  &lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=/images/articles/Miles1991.jpg alt=“Miles Davis in 1991”&gt;
+    &lt;figcaption&gt;
+        Miles Davis in 1991. Photo by Peter Buitelaar.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class="footnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+
+&lt;li id="fn1"&gt;
+&lt;p&gt;I’ll admit that although I was mostly speaking extemporaneously, that move was planned.&amp;nbsp;&lt;a href="#fnref1" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn2"&gt;
+&lt;p&gt;Charlie Parker, known as &amp;ldquo;Bird&amp;rdquo;, created the style called &lt;a href="!wiki"&gt;bebop&lt;/a&gt;.&amp;nbsp;&lt;a href="#fnref2" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn3"&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Miles_Davis_discography"&gt;According to Wikipedia&lt;/a&gt;. Not counting bootlegs, unauthorized releases, etc. &amp;nbsp;&lt;a href="#fnref3" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn4"&gt;
+&lt;p&gt;Early iterations of the quintet had George Coleman or Sam Rivers on saxophone, but the group didn&amp;rsquo;t become truly great until Wayne joined in 1964. Just my opinion—although the stuff with Coleman and Rivers is really good too. &amp;nbsp;&lt;a href="#fnref4" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Friday the 13th</title>
+    <link rel="alternate" href="http://nadav.is/writing/friday-the-13th/"/>
+    <id>http://nadav.is/writing/friday-the-13th/</id>
+    <published>2013-12-13T00:00:00Z</published>
+    <updated>2013-12-21T15:05:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;It&amp;rsquo;s Friday the 13th, &amp;ldquo;an unlucky day in Western and Eastern superstition&amp;rdquo; according to &lt;a href="http://en.wikipedia.org/wiki/Friday_the_13th"&gt;Wikipedia&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Thelonious_Sphere_Monk"&gt;Thelonious Sphere Monk&lt;/a&gt; wrote a tune called &lt;em&gt;Friday the 13th&lt;/em&gt;. Like all of his tunes, it&amp;rsquo;s quirky and swings hard. &lt;/p&gt;
+
+&lt;div class="fitvids"&gt;
+    &lt;iframe width="560" height="315" src="//www.youtube.com/embed/NT9xGJvW13c?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
