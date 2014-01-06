@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <meta content='width=device-width, initial-scale=1, minimum-scale=1' name='viewport'>
+    <title>Nadav Spiegelman - On making this website</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+    <link href="/stylesheets/site.css" media="screen" rel="stylesheet" type="text/css" /> 
+    <script type="text/javascript" src="//use.typekit.net/uvv4jhx.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript">
+    window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
+    window.analytics.load("e3skgcsveo");
+    window.analytics.page();
+    </script>
+  </head>
+  <body class="writing writing_on-making-this-website writing_on-making-this-website_index">
+    <header>
+  <h1><a href="/">Nadav Spiegelman</a></h1>
+  <nav role="navigation">
+    <h2 class="visuallyhidden">Site navigation</h2>
+    <ul>
+      <li><a href="/playing">Music</a></li>
+      <li><a href="/designing">Design</a></li>
+      <li><a href="/writing">Writing</a></li>
+      <li><a href="mailto:me@nadav.is">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+    
+  <article class="post">
+    <header class="post__header">
+      <h1><a href="/writing/on-making-this-website/">On making this website</a></h1>
+      <p class="h4">December 24, 2013</p>
+    </header>
+    <p>This is my website. There are many like it, but <a href="http://frankchimero.com/blog/2013/12/homesteading-2014/">this one is mine</a>. The source code is <a href="https://github.com/nadavspi/nadav.is">available on GitHub</a>.</p>
+
+<h2>Typography</h2>
+
+<p>The typeface used on this site is the lovely <a href="https://www.fontfont.com/fonts/tundra">FF Tundra</a> by <a href="http://www.ludwigtype.de/">Ludwig Übele</a>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> I&rsquo;m in love with FF Tundra. I came across it a few months ago, became totally obsessed with it, and couldn&rsquo;t wait for an excuse to use it. When I decided to build this website, I immediately knew the time had come to use Tundra. It was the first design choice for this site, and the first time I ever purchased a font. I thought about using a second font with it and tried out a bunch of combinations, but ultimately decided to stick with Tundra for everything.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> </p>
+
+<p>I wanted a comfortable font size—large but not <a href="http://www.zeldman.com/">Zeldman</a> or <a href="http://trentwalton.com/">Trent Walton</a> large<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>—and settled on 22px at the largest breakpoint. Funny story: For the week I spent developing this site, I was viewing it at 110% zoom. Made for an interesting surprise when I deployed it.</p>
+
+<p>I used a <a href="http://modularscale.com/">modular scale</a> for the site, using the ratio of a major third in music (4:5 or 1.25). Because who doesn&rsquo;t like a major third? And I double stop major tenths on the bass all the damn time.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> </p>
+
+<h2>Code</h2>
+
+<p>This website uses <a href="!g%20“Middleman%20app”">Middleman</a>, my static site generator of choice. <a href="http://jekyllrb.com/">Jekyll</a> seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and <a href="http://sass-lang.com/">Sass</a>, generally adhering to <a href="http://smacss.com/">SMACSS</a> and <a href="http://bem.info/method/">BEM</a> principles as far as splitting things up into partials and naming classes descriptively. </p>
+
+<p>I feel like the <a href="http://oocss.org/">OOCSS</a>/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use <a href="!g%20“sass%20extend”">extend</a> instead of applying a classw to every element. For now, anyway.</p>
+
+<h2>Layout</h2>
+
+<p>This site was built <em><a href="http://www.abookapart.com/products/mobile-first">mobile first</a></em> using <a href="!g%20“Susy%20grid”">Susy</a> as the grid framework. I’m using the nifty <em><a href="http://susy.oddbird.net/demos/magic/">magic grid</a></em> thing that applies a breakpoint as soon as the specified number of columns can fit in the viewport. </p>
+
+<p>I sketched some mockups at 7am one morning during <a href="http://patterns.co">Patterns</a> then put them away to work on the content. I played with some more complicated ideas for the home page before ending up with the simple layout it has now. </p>
+
+<figure>
+    <img src=/images/articles/mockup.jpg alt="First mockup of nadav.is">
+    <figcaption>The first mockup of this website.</figcaption>
+</figure>
+
+<h2>Writing</h2>
+
+<p>Articles are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. They usually start in <a href="http://bywordapp.com/">Byword</a> on the Mac or <a href="http://omz-software.com/editorial/">Editorial</a> on the iPad<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> until I’m ready to see them in context, at which point they&rsquo;re moved into the development branch in the repo and into <a href="http://www.hanselman.com/tools/">Sublime Text</a> for editing. </p>
+
+<p>I&rsquo;d like to give a special shout out to Brett Tersptra amazing <a href="http://brettterpstra.com/projects/searchlink/">SearchLink</a> OS X Service for making Markdown links so much easier. </p>
+
+<p>Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I started out using the <a href="https://github.com/vmg/redcarpet">redcarpet</a> engine but it didn’t support them. I tried a few others and almost settled on <a href="http://kramdown.gettalong.org/">kramdown</a> except it was stupidly difficult to get the figure/img/figcaption pattern to parse right. Eventually I got redcarpet working for footnotes—and automatic <a href="http://smartquotesforsmartpeople.com/">smart quotes</a>—within Middleman by pulling the gem directly from GitHub. Yay.<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> The footnotes display inline thanks to the awesome <a href="!g%20“Bigfoot%20footnote”">Bigfoot</a> jQuery plugin. </p>
+
+<div class="footnotes">
+<hr>
+<ol>
+
+<li id="fn1">
+<p><a href="http://ilovetypography.com/2011/10/05/the-making-of-ff-tundra/">Here’s a cool article by Ludwig on the making of FF Tundra</a>.&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn2">
+<p>Honorable mentions for Museo Sans, FF Milo, Brandon Grotesque, and Tungsten. &nbsp;<a href="#fnref2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn3">
+<p>Not that there’s anything wrong with that. &nbsp;<a href="#fnref3" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn4">
+<p>Thanks, <a href="http://www.youtube.com/watch?v=_htGBKvXWpI">Red Mitchell</a>. I love you! &nbsp;<a href="#fnref4" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn5">
+<p>Well, half of the <a href="/writing/miles-davis">Miles Davis post</a> was scribbled in a <a href="http://fieldnotesbrand.com/">Field Notes</a> notebook on the Subway—because sometimes you can&rsquo;t interrupt the flow, but still have to get places.&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn6">
+<p>I took a detour trying to make a Middleman helper function to generate my figure/img/figcaption blocks—borrowing from <a href="https://github.com/eshiota/middleman-sushiplate">Middleman Sushiplate</a>—but that stuff seems to broken right now. Will try again some time. <a href="https://github.com/opattison/jekyll-figure-image-tag">There’s a working plugin for jekyll</a>. :-(&nbsp;<a href="#fnref6" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+  </article>
+  
+  <nav class="post__nav">
+    <h1 class="visuallyhidden">Blog navigation</h1>
+  
+
+      <a class="post__next" href="/writing/ten-jazz-albums-you-should-have/">Next: Ten Jazz albums you should have</a>
+      <a class="post__previous" href="/writing/miles-davis/">Previous: Miles Davis</a>
+
+  
+  <a href="/writing" class="archive">Archive</a>
+  </nav>
+
+
+    <footer>
+  <p>&copy; 2013 <a href="mailto:me@nadav.is">Nadav Spiegelman</a>.</p>
+</footer>
+
+    <script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="/javascripts/site.js" type="text/javascript"></script>
+  </body>
+</html>
+ 
