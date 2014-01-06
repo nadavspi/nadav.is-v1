@@ -18,7 +18,7 @@ I used a [modular scale][1846-006] for the site, using the ratio of a major thir
 
 This website uses [Middleman](!g “Middleman app”), my static site generator of choice. [Jekyll][1846-007] seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and [Sass][1846-008], generally adhering to [SMACSS][1846-009] and [BEM][1846-010] principles as far as splitting things up into partials and naming classes descriptively. 
 
-I feel like the [OOCSS][1846-011]/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use [extend](!g “sass extend”) instead of applying a classw to every element. For now, anyway.
+I feel like the [OOCSS][1846-011]/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use [extend](!g “sass extend”) instead of applying a class to every element. For now, anyway.
 
 
 ## Layout
