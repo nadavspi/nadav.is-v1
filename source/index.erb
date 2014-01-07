@@ -18,7 +18,7 @@
   <section class="home__recent">
     <h2><a href="/writing">Recent Articles</a></h2>
     <ol>
-      <% blog.articles[0...3].each do |article| %>
+      <% blog.articles[0...4].each do |article| %>
         <li class="sc"><%= link_to article.title, article %></li>
       <% end %>
     </ol>
@@ -26,7 +26,7 @@
 
   <section class="home__contact">
     <h2><a href="mailto:me@nadav.is">Contact me</a></h2>
-    <p>Feel free to get in touch if you'd like to work together, or just want to chat.</p>
+    <p>Feel free to get in touch if you'd like to work together, or just want to chat. I live in New York City but often work with clients remotely.</p>
     <p><a href="mailto:me@nadav.is">me@nadav.is</a> / <a href="https://twitter.com/nadavspi">@nadavspi</a></p>
   </section>
 </main>
