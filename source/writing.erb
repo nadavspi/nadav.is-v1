@@ -22,7 +22,7 @@ per_page: 20
     <% page_articles.each_with_index do |article, i| %>
       <li class="archive__post">
           <h3 class="title"><%= link_to article.title, article %></h3>
-          <time datetime="<%= article.date.strftime('%Y-%m-%d') %>" class="date sc"><%= article.date.strftime('%b %e, %Y') %></p>
+          <time datetime="<%= article.date.strftime('%Y-%m-%d') %>" class="date sc"><%= article.date.strftime('%b %e, %Y') %></time>
       </li>
     <% end %>
   </ol>
