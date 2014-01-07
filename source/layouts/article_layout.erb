@@ -1,14 +1,16 @@
 <% wrap_layout :layout do %>
 
-  <article class="post">
+  <article class="post" role="article">
     <header class="post__header">
       <h1><%= link_to current_article.title, current_article %></h1>
-      <p class="h4"><%= current_article.date.strftime('%B %e, %Y') %></p>
+      <time datetime="<%= current_article.date.strftime('%Y-%m-%d') %>" class="h4">
+        <%= current_article.date.strftime('%B %e, %Y') %>
+      </time>
     </header>
     <%= yield %>
   </article>
   
-  <nav class="post__nav">
+  <nav class="post__nav" role="navigation">
     <h1 class="visuallyhidden">Blog navigation</h1>
   <% if current_article.previous_article || current_article.next_article %>
 
