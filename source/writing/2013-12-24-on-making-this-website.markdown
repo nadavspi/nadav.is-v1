@@ -64,7 +64,7 @@ Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I
 [1846-013]: http://daringfireball.net/projects/markdown/
 [1846-014]: http://bywordapp.com/
 [1846-015]: http://omz-software.com/editorial/
-[1846-016]: http://www.hanselman.com/tools/
+[1846-016]: http://www.sublimetext.com/
 [1846-017]: http://brettterpstra.com/projects/searchlink/
 [1846-018]: http://kramdown.gettalong.org/
 [1846-019]: http://fieldnotesbrand.com/
