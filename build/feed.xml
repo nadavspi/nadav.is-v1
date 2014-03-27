@@ -4,10 +4,39 @@
   <id>http://nadav.is/writing</id>
   <link href="http://nadav.is/writing"/>
   <link href="http://nadav.is/writing/feed.xml" rel="self"/>
-  <updated>2014-01-03T00:00:00Z</updated>
+  <updated>2014-03-26T00:00:00Z</updated>
   <author>
     <name>Nadav Spiegelman</name>
   </author>
+  <entry>
+    <title>Reid Miles's &lt;em&gt;Blue Note&lt;/em&gt; album covers</title>
+    <link rel="alternate" href="http://nadav.is/writing/reid-miles-blue-note-album-covers/"/>
+    <id>http://nadav.is/writing/reid-miles-blue-note-album-covers/</id>
+    <published>2014-03-26T00:00:00Z</published>
+    <updated>2014-03-26T22:46:18-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Album covers are a perfect example of design within constraints: some names, a fixed canvas, a few typefaces to choose from, sometimes a photograph. &lt;a href="http://www.bluenote.com/"&gt;Blue Note Records&lt;/a&gt; has been around since 1939, and their classic covers are absolute masterpieces.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Reid_Miles"&gt;Reid Miles&lt;/a&gt; was the art director for Blue Note Records in the 50&amp;rsquo;s and 60&amp;rsquo;s and designed hundreds of album covers. Many featured the photography of &lt;a href="http://en.wikipedia.org/wiki/Francis_Wolff"&gt;Francis Wolff&lt;/a&gt;, one of the owners of the record label. &lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a trip to look through the catalog and see how many of the classic albums were designed by Reid Miles. They are as cool and interesting as the music, and an inseparable part of the experience.&lt;/p&gt;
+
+&lt;div class="wide" style="margin-top: 2rem; margin-bottom: 2rem;"&gt;
+  &lt;figure class="half"&gt;&lt;img src="nichols.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="clarkCrib.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="hendersonInOut.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="SomethinElse.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="blakeyMoanin.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="coltraneBlueTrain.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="morganLeeWay.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+  &lt;figure class="half"&gt;&lt;img src="dorhamUnaMas.jpg" style="max-height: 430px;"&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For more, see the &lt;a href="http://www.birkajazz.com/archive/blueNote4000.htm"&gt;Birka Jazz Archive&lt;/a&gt;, &lt;a href="http://www.hardformat.org/designers/reid-miles2/"&gt;Hard Format&lt;/a&gt;, &lt;a href="http://www.gokudo.co.jp/Record/BlueNote3/nnblue2.html"&gt;Vintage Vanguard&lt;/a&gt;, and &lt;a href="http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/"&gt;this interesting article on Reid Miles by Alexander Ross Charchar&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Branding Jazz</title>
     <link rel="alternate" href="http://nadav.is/writing/branding-jazz/"/>
@@ -190,7 +219,7 @@
     <link rel="alternate" href="http://nadav.is/writing/on-making-this-website/"/>
     <id>http://nadav.is/writing/on-making-this-website/</id>
     <published>2013-12-24T00:00:00Z</published>
-    <updated>2014-01-06T17:09:37-05:00</updated>
+    <updated>2014-03-26T22:46:18-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -223,7 +252,7 @@
 
 &lt;h2&gt;Writing&lt;/h2&gt;
 
-&lt;p&gt;Articles are written in &lt;a href="http://daringfireball.net/projects/markdown/"&gt;Markdown&lt;/a&gt;. They usually start in &lt;a href="http://bywordapp.com/"&gt;Byword&lt;/a&gt; on the Mac or &lt;a href="http://omz-software.com/editorial/"&gt;Editorial&lt;/a&gt; on the iPad&lt;sup id="fnref5"&gt;&lt;a href="#fn5" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt; until I’m ready to see them in context, at which point they&amp;rsquo;re moved into the development branch in the repo and into &lt;a href="http://www.hanselman.com/tools/"&gt;Sublime Text&lt;/a&gt; for editing. &lt;/p&gt;
+&lt;p&gt;Articles are written in &lt;a href="http://daringfireball.net/projects/markdown/"&gt;Markdown&lt;/a&gt;. They usually start in &lt;a href="http://bywordapp.com/"&gt;Byword&lt;/a&gt; on the Mac or &lt;a href="http://omz-software.com/editorial/"&gt;Editorial&lt;/a&gt; on the iPad&lt;sup id="fnref5"&gt;&lt;a href="#fn5" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt; until I’m ready to see them in context, at which point they&amp;rsquo;re moved into the development branch in the repo and into &lt;a href="http://www.sublimetext.com/"&gt;Sublime Text&lt;/a&gt; for editing. &lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;d like to give a special shout out to Brett Tersptra amazing &lt;a href="http://brettterpstra.com/projects/searchlink/"&gt;SearchLink&lt;/a&gt; OS X Service for making Markdown links so much easier. &lt;/p&gt;
 
@@ -373,24 +402,6 @@
 &lt;/li&gt;
 
 &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Friday the 13th</title>
-    <link rel="alternate" href="http://nadav.is/writing/friday-the-13th/"/>
-    <id>http://nadav.is/writing/friday-the-13th/</id>
-    <published>2013-12-13T00:00:00Z</published>
-    <updated>2013-12-21T15:05:39-05:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;It&amp;rsquo;s Friday the 13th, &amp;ldquo;an unlucky day in Western and Eastern superstition&amp;rdquo; according to &lt;a href="http://en.wikipedia.org/wiki/Friday_the_13th"&gt;Wikipedia&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Thelonious_Sphere_Monk"&gt;Thelonious Sphere Monk&lt;/a&gt; wrote a tune called &lt;em&gt;Friday the 13th&lt;/em&gt;. Like all of his tunes, it&amp;rsquo;s quirky and swings hard. &lt;/p&gt;
-
-&lt;div class="fitvids"&gt;
-    &lt;iframe width="560" height="315" src="//www.youtube.com/embed/NT9xGJvW13c?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </content>
   </entry>
