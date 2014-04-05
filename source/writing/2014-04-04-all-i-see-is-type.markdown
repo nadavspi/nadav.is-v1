@@ -1,5 +1,5 @@
 ---
-title: All I see is Type
+title: All I See is Type
 date: 2014-04-04
 tags: design, music
 ---
