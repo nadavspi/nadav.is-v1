@@ -21,5 +21,4 @@ The era of tiny fonts set in endless line lengths is over, I hope. It's not just
 eBook readers are lagging typographically, and it's starting to bother me. As my infatuated with type warms, I'm putting down the Kindle and returning to paper more often for books that I know or suspect are well designed. 
 
 
-[^instapaper]: I hope they do, but I also hope they won't need to.
 [^cnn]: There's no fucking excuse.
