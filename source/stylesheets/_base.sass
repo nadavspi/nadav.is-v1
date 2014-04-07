@@ -30,10 +30,10 @@ h1,h2,h3, .h1, .h2, .h3
   text-rendering: optimizeLegibility
 
 h1, .h1
-  font-size: ms(5)
-  line-height: 1.2
   margin-top: 0
   margin-bottom: ms(-2)
+  font-size: ms(5)
+  line-height: 1.2
   font-weight: normal
   +at-breakpoint($medium)
     margin-bottom: ms(5)
@@ -50,17 +50,17 @@ h2, .h2
     @extend %link--orange
 
 h3, .h3
-  font-size: ms(1)
-  font-weight: normal
   margin-top: ms(3)
   margin-bottom: 0
+  font-size: ms(1)
+  font-weight: normal
   @extend .sc
 
 h4, .h4
+  margin: 0
   font-size: ms(0)
   font-weight: normal
   color: #888
-  margin: 0
   @extend .sc
 
 .subheading
@@ -72,14 +72,14 @@ p
   margin-bottom: 0.696em
 
 blockquote
+  margin: 1rem 0 ms(5) 2.125em
   font-size: 0.87rem
   line-height: 1.4
-  margin: 1rem 0 ms(5) 2.125em
 
 .quote-speaker
+  margin-right: ms(-10)
   @extend .sc
   color: #888
-  margin-right: ms(-10)
 
 a
   color: $green
