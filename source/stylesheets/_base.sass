@@ -5,19 +5,19 @@ html
   font-size: 16px
   +at-breakpoint($medium)
     font-size: 20px
-  +at-breakpoint($large)
-    font-size: 22px
+  //+at-breakpoint($large)
+    //font-size: 22px
 
 body 
   margin: 30px auto
   margin-bottom: 2rem
   padding: 0 1em
-  font-family: "ff-tundra-web", Georgia, serif
+  font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B' 
+  font-weight: 400
   font-size: 1rem
   line-height: 1.55
   text-rendering: optimizeLegibility
-  color: #222
-  background-color: lighten(#e4e8ed,5%)
+  color: #333
 
 main
   +clearfix
@@ -27,6 +27,7 @@ img
 
 h1,h2,h3, .h1, .h2, .h3
   color: #222
+  font-family: "ff-tundra-web", Georgia, serif
   text-rendering: optimizeLegibility
 
 h1, .h1
@@ -89,8 +90,12 @@ a
     color: darken($green, 30%)
 
 .sc
-  font-family: "ff-tundra-sc-web", Georgia, serif
+  //font-family: "ff-tundra-sc-web", Georgia, serif
+  font-family: 'Ideal Sans SSm Small Caps A', 'Ideal Sans SSm Small Caps B'
   text-transform: lowercase
+
+%tundra
+  font-family: "ff-tundra-web", Georgia, serif
 
 abbr
   @extend .sc
@@ -110,7 +115,7 @@ article
   margin: 3.052rem auto
   p
     margin: 0
-    text-indent: ms(3)
+    text-indent: ms(5)
   li, figure
     p
       text-indent: 0

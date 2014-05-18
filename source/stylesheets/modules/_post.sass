@@ -22,10 +22,15 @@
       @extend %link--orange
 
 .post__nav
+  padding-top: ms(-3)
+  @extend %wrap--normal
+  @extend %tundra
+  font-family: "ff-tundra-web"
   text-align: center
   font-size: ms(-1)
   +at-breakpoint($medium)
     font-size: 1rem
+  border-top: 2px solid $light-grey
   a
     display: block
   .archive
