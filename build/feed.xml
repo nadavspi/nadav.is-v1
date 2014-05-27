@@ -4,10 +4,30 @@
   <id>http://nadav.is/writing</id>
   <link href="http://nadav.is/writing"/>
   <link href="http://nadav.is/writing/feed.xml" rel="self"/>
-  <updated>2014-04-04T00:00:00Z</updated>
+  <updated>2014-05-26T00:00:00Z</updated>
   <author>
     <name>Nadav Spiegelman</name>
   </author>
+  <entry>
+    <title>A month with Vim</title>
+    <link rel="alternate" href="http://nadav.is/writing/a-month-with-vim/"/>
+    <id>http://nadav.is/writing/a-month-with-vim/</id>
+    <published>2014-05-26T00:00:00Z</published>
+    <updated>2014-05-26T23:56:02-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Since starting at &lt;a href="http://somethingdigital.com"&gt;SD&lt;/a&gt; in February, I’ve been doing a lot of work on virtual machines or remote servers. I haven’t spent this much time in the command line since I was compiling my own linux kernels and fucking up grub configs as an early teen, and it’s a lot of fun. Because many of these machines don’t have an editor other than Vim and setting up SFTP for every project in Sublime Text is a pain, I decided it was time to learn Vim. Before I started, I know how to go into insert mode and how to save and quit. That’s it. As a geek, I continually hack and refine my environment and this seemed like an obvious place for improvement. So for the past month, I’ve been using Vim exclusively. And I’ve been going deep.&lt;/p&gt;
+
+&lt;p&gt;My favorite thing about Vim (other than street cred from my fellow nerds) is that it’s a language that builds upon itself. Once I learn a word, I can string it together with the ones I already know to form sentences. For instance, hitting &lt;em&gt;j&lt;/em&gt; moves the cursor down one line. Putting a number in front of any command repeats it that many times, so &lt;em&gt;3j&lt;/em&gt; moves the cursor down three lines. Once I learn that &lt;em&gt;d&lt;/em&gt; is for delete, I can do &lt;em&gt;d3j&lt;/em&gt; to delete three lines down. As soon as I know that &lt;em&gt;f&lt;/em&gt; finds the specified character in the line, I also know how to delete everything until the next semicolon in the line by doing &lt;em&gt;df;&lt;/em&gt;, and so on. &lt;/p&gt;
+
+&lt;p&gt;The logic of Vim as a language is very appealing and works with the way I think. As a front end dev, being able to change the contents of an HTML tag or a string in quotes in a couple of keystrokes is awesome. Being able to expand a line of HTML or CSS using two keystrokes with &lt;a href="https://github.com/AndrewRadev/splitjoin.vim"&gt;splitjoin.vim&lt;/a&gt; is borderline mindblowing. &lt;/p&gt;
+
+&lt;p&gt;This leads me to another reason I’m digging Vim: its extensibility and plugin ecosystem. This is familiar from using Sublime Text, which has many awesome plugins as well. What makes it extra appealing with Vim is that by bringing &lt;a href="https://github.com/nadavspi/dotfiles/blob/master/vimrc"&gt;my vimrc&lt;/a&gt; with me, I can feel at home on any random machine I have to work on.&lt;/p&gt;
+
+&lt;p&gt;There are tons of &lt;a href="http://stevelosh.com/blog/2010/09/coming-home-to-vim/"&gt;great&lt;/a&gt; &lt;a href="http://www.danielmiessler.com/study/vim/"&gt;articles&lt;/a&gt; and even &lt;a href="https://leanpub.com/painless_vim"&gt;some&lt;/a&gt; &lt;a href="http://pragprog.com/book/dnvim/practical-vim"&gt;books&lt;/a&gt; about Vim that I’ve been referencing as I go, but the main thing has been to just throw myself into it. It’s been fun and rewarding so far, and has led some other geekery like &lt;a href="http://tmux.sourceforge.net/"&gt;tmux&lt;/a&gt; and learning more about &lt;a href="https://github.com/robbyrussell/oh-my-zsh"&gt;zsh&lt;/a&gt;, but I’ll save those for another day. &lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>All I See is Type</title>
     <link rel="alternate" href="http://nadav.is/writing/all-i-see-is-type/"/>
@@ -246,82 +266,6 @@
 &lt;li&gt;Wes Montgomery &amp;amp; Wynton Kelly Trio - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B00000470Y/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00000470Y&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;Smokin&amp;#39; at the Half Note&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Duke Ellington - &lt;em&gt;&lt;a href="http://www.amazon.com/gp/product/B008NEZOCO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B008NEZOCO&amp;amp;linkCode=as2&amp;amp;tag=nadavis-20"&gt;&amp;hellip;And His Mother Called Him Bill&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On making this website</title>
-    <link rel="alternate" href="http://nadav.is/writing/on-making-this-website/"/>
-    <id>http://nadav.is/writing/on-making-this-website/</id>
-    <published>2013-12-24T00:00:00Z</published>
-    <updated>2014-05-15T20:39:40-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;This is my website. There are many like it, but &lt;a href="http://frankchimero.com/blog/2013/12/homesteading-2014/"&gt;this one is mine&lt;/a&gt;. The source code is &lt;a href="https://github.com/nadavspi/nadav.is"&gt;available on GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2&gt;Typography&lt;/h2&gt;
-
-&lt;p&gt;The typeface used on this site is the lovely &lt;a href="https://www.fontfont.com/fonts/tundra"&gt;FF Tundra&lt;/a&gt; by &lt;a href="http://www.ludwigtype.de/"&gt;Ludwig Übele&lt;/a&gt;.&lt;sup id="fnref1"&gt;&lt;a href="#fn1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; I&amp;rsquo;m in love with FF Tundra. I came across it a few months ago, became totally obsessed with it, and couldn&amp;rsquo;t wait for an excuse to use it. When I decided to build this website, I immediately knew the time had come to use Tundra. It was the first design choice for this site, and the first time I ever purchased a font. I thought about using a second font with it and tried out a bunch of combinations, but ultimately decided to stick with Tundra for everything.&lt;sup id="fnref2"&gt;&lt;a href="#fn2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
-
-&lt;p&gt;I wanted a comfortable font size—large but not &lt;a href="http://www.zeldman.com/"&gt;Zeldman&lt;/a&gt; or &lt;a href="http://trentwalton.com/"&gt;Trent Walton&lt;/a&gt; large&lt;sup id="fnref3"&gt;&lt;a href="#fn3" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;—and settled on 22px at the largest breakpoint. Funny story: For the week I spent developing this site, I was viewing it at 110% zoom. Made for an interesting surprise when I deployed it.&lt;/p&gt;
-
-&lt;p&gt;I used a &lt;a href="http://modularscale.com/"&gt;modular scale&lt;/a&gt; for the site, using the ratio of a major third in music (4:5 or 1.25). Because who doesn&amp;rsquo;t like a major third? And I double stop major tenths on the bass all the damn time.&lt;sup id="fnref4"&gt;&lt;a href="#fn4" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
-
-&lt;h2&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;This website uses &lt;a href="!g%20“Middleman%20app”"&gt;Middleman&lt;/a&gt;, my static site generator of choice. &lt;a href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; seems to be getting more attention these days, but I feel most at home with Ruby and ERB templating, so I’m sticking with Middleman for now. It’s written in HTML5 and &lt;a href="http://sass-lang.com/"&gt;Sass&lt;/a&gt;, generally adhering to &lt;a href="http://smacss.com/"&gt;SMACSS&lt;/a&gt; and &lt;a href="http://bem.info/method/"&gt;BEM&lt;/a&gt; principles as far as splitting things up into partials and naming classes descriptively. &lt;/p&gt;
-
-&lt;p&gt;I feel like the &lt;a href="http://oocss.org/"&gt;OOCSS&lt;/a&gt;/BEM thing can lead to an unnecessarily cluttered DOM with all of the class names, although I love the idea of abstracting reusable patterns. Preferring clean HTML, I tend to use &lt;a href="!g%20“sass%20extend”"&gt;extend&lt;/a&gt; instead of applying a class to every element. For now, anyway.&lt;/p&gt;
-
-&lt;h2&gt;Layout&lt;/h2&gt;
-
-&lt;p&gt;This site was built &lt;em&gt;&lt;a href="http://www.abookapart.com/products/mobile-first"&gt;mobile first&lt;/a&gt;&lt;/em&gt; using &lt;a href="!g%20“Susy%20grid”"&gt;Susy&lt;/a&gt; as the grid framework. I’m using the nifty &lt;em&gt;&lt;a href="http://susy.oddbird.net/demos/magic/"&gt;magic grid&lt;/a&gt;&lt;/em&gt; thing that applies a breakpoint as soon as the specified number of columns can fit in the viewport. &lt;/p&gt;
-
-&lt;p&gt;I sketched some mockups at 7am one morning during &lt;a href="http://patterns.co"&gt;Patterns&lt;/a&gt; then put them away to work on the content. I played with some more complicated ideas for the home page before ending up with the simple layout it has now. &lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=/images/articles/mockup.jpg alt="First mockup of nadav.is"&gt;
-    &lt;figcaption&gt;The first mockup of this website.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2&gt;Writing&lt;/h2&gt;
-
-&lt;p&gt;Articles are written in &lt;a href="http://daringfireball.net/projects/markdown/"&gt;Markdown&lt;/a&gt;. They usually start in &lt;a href="http://bywordapp.com/"&gt;Byword&lt;/a&gt; on the Mac or &lt;a href="http://omz-software.com/editorial/"&gt;Editorial&lt;/a&gt; on the iPad&lt;sup id="fnref5"&gt;&lt;a href="#fn5" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt; until I’m ready to see them in context, at which point they&amp;rsquo;re moved into the development branch in the repo and into &lt;a href="http://www.sublimetext.com/"&gt;Sublime Text&lt;/a&gt; for editing. &lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d like to give a special shout out to Brett Tersptra amazing &lt;a href="http://brettterpstra.com/projects/searchlink/"&gt;SearchLink&lt;/a&gt; OS X Service for making Markdown links so much easier. &lt;/p&gt;
-
-&lt;p&gt;Getting the (unofficial) Markdown footnote syntax to work was kind of a bitch. I started out using the &lt;a href="https://github.com/vmg/redcarpet"&gt;redcarpet&lt;/a&gt; engine but it didn’t support them. I tried a few others and almost settled on &lt;a href="http://kramdown.gettalong.org/"&gt;kramdown&lt;/a&gt; except it was stupidly difficult to get the figure/img/figcaption pattern to parse right. Eventually I got redcarpet working for footnotes—and automatic &lt;a href="http://smartquotesforsmartpeople.com/"&gt;smart quotes&lt;/a&gt;—within Middleman by pulling the gem directly from GitHub. Yay.&lt;sup id="fnref6"&gt;&lt;a href="#fn6" rel="footnote"&gt;6&lt;/a&gt;&lt;/sup&gt; The footnotes display inline thanks to the awesome &lt;a href="!g%20“Bigfoot%20footnote”"&gt;Bigfoot&lt;/a&gt; jQuery plugin. &lt;/p&gt;
-
-&lt;div class="footnotes"&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-
-&lt;li id="fn1"&gt;
-&lt;p&gt;&lt;a href="http://ilovetypography.com/2011/10/05/the-making-of-ff-tundra/"&gt;Here’s a cool article by Ludwig on the making of FF Tundra&lt;/a&gt;.&amp;nbsp;&lt;a href="#fnref1" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li id="fn2"&gt;
-&lt;p&gt;Honorable mentions for Museo Sans, FF Milo, Brandon Grotesque, and Tungsten. &amp;nbsp;&lt;a href="#fnref2" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li id="fn3"&gt;
-&lt;p&gt;Not that there’s anything wrong with that. &amp;nbsp;&lt;a href="#fnref3" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li id="fn4"&gt;
-&lt;p&gt;Thanks, &lt;a href="http://www.youtube.com/watch?v=_htGBKvXWpI"&gt;Red Mitchell&lt;/a&gt;. I love you! &amp;nbsp;&lt;a href="#fnref4" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li id="fn5"&gt;
-&lt;p&gt;Well, half of the &lt;a href="/writing/miles-davis"&gt;Miles Davis post&lt;/a&gt; was scribbled in a &lt;a href="http://fieldnotesbrand.com/"&gt;Field Notes&lt;/a&gt; notebook on the Subway—because sometimes you can&amp;rsquo;t interrupt the flow, but still have to get places.&amp;nbsp;&lt;a href="#fnref5" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li id="fn6"&gt;
-&lt;p&gt;I took a detour trying to make a Middleman helper function to generate my figure/img/figcaption blocks—borrowing from &lt;a href="https://github.com/eshiota/middleman-sushiplate"&gt;Middleman Sushiplate&lt;/a&gt;—but that stuff seems to broken right now. Will try again some time. &lt;a href="https://github.com/opattison/jekyll-figure-image-tag"&gt;There’s a working plugin for jekyll&lt;/a&gt;. :-(&amp;nbsp;&lt;a href="#fnref6" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;/ol&gt;
-&lt;/div&gt;
 </content>
   </entry>
 </feed>
