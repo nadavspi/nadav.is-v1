@@ -4,6 +4,13 @@
   &:hover
     color: darken($orange, 30%)
 
+%link--green
+  color: $green
+  text-decoration: none
+  transition: color 0.2s linear
+  &:hover
+    color: darken($green, 30%)
+
 %list--clean
   list-style: none
   margin: 0
@@ -29,7 +36,11 @@
   @extend %center--margin
 
 %wrap--wide
-  max-width: 44rem
+  max-width: 44.41rem
+  @extend %center--margin
+
+%wrap--extra-wide
+  max-width: 55.512rem
   @extend %center--margin
 
 .wide

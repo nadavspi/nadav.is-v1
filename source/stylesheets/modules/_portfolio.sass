@@ -1,14 +1,25 @@
 .portfolio
   +clearfix
-  header
-    text-align: center
-  ul
-    @extend %list--clean
-    text-align: center
-  li
-    margin-bottom: ms(8)
-    @extend %center--margin
-    max-width: 20rem
-    +at-breakpoint($large)
-      +span-columns(4)
-      +nth-omega(3n)
+  text-align: center
+
+.portfolio__item 
+  margin: ms(6) auto
+  @extend %wrap--wide
+  @extend .wide
+  h1, h2
+    margin: 0
+    a
+      @extend %link--green
+
+.portfolio__preview
+  display: none
+  margin-top: ms(4)
+  @extend %wrap--wide
+  @extend .wide
+  @extend %responsive-iframe__container
+
+.portfolio__preview--visible
+  display: block
+
+.portfolio__toggle
+  @extend %link--orange

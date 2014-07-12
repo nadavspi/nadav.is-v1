@@ -9,31 +9,38 @@
 </article>
 
 <section class="portfolio">
-    <header>
-        <h2>Selected Portfolio</h2>
-    </header>
-    <ul>
-        <li>
-            <a href="http://www.stresslesswithreiki.com">
-                <figure>
-                <img src="/images/StressLess.jpg" alt="">
-                <figcaption>Responsive design &amp; development</figcaption>
-                </figure>
-            </a>
-        </li>
-        <li>
-            <a href="http://www.balancedmoments.com/wowyear">
-                <figure>
-                <img src="/images/WowYear.jpg" alt="">
-                <figcaption>Responsive WordPress theme design &amp; development</figcaption>
-                </figure>
-            </a>
-        </li>
-        <li>
-            <figure>
-            <img src="/images/TomRudnitsky.jpg" alt="">
-            <figcaption>Responsive WordPress theme development</figcaption>
-            </figure>
-        </li>
-    </ul> 
+    <%# <header> %>
+    <%#     <h2>Selected Portfolio</h2> %>
+    <%# </header> %>
+
+    <article class="portfolio__item">
+      <header>
+        <h1><a href="http://www.stresslesswithreiki.com">Stress Less with Reiki</a></h1>
+        <h2>Design &amp; development</h2>
+      </header>
+      <img src="/images/portfolio/stressless1.png" alt="Stress Less with Reiki Screenshot">
+      <img src="/images/portfolio/stressless2.png" alt="Stress Less with Reiki Screenshot">
+      <%# <a href="#" class="portfolio__toggle">Show live preview</a> %>
+      <%# <figure class="portfolio__preview"> %>
+      <%#   <iframe data-src="//www.stresslesswithreiki.com" frameborder="0" class="portfolio__preview__iframe"></iframe> %>
+      <%# </figure> %>
+    </article>
+
+    <article class="portfolio__item">
+      <header>
+        <h1>Nick Rosen</h1>
+        <h2>Design &amp; Development</h2>
+      </header>
+    </article>
+
+    <article class="portfolio__item">
+      <header>
+        <h1>Caramoor Center for Music and the Arts</h1>
+        <h2>Front-End Development with <a href="http://www.somethingdigital.com">Something Digital</a></h2>
+      </header>
+      <a href="#" class="portfolio__toggle">Show live preview</a>
+      <figure class="portfolio__preview">
+        <iframe data-src="//www.caramoor.org" frameborder="0" class="portfolio__preview__iframe"></iframe>
+      </figure>
+    </article>
 </section>
