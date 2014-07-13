@@ -1,7 +1,7 @@
 ---
 title: something
 date: 2014-01-09
-tags: music
+tags: Music
 published: false
 ---
 

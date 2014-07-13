@@ -1,7 +1,7 @@
 ---
 title: On making this website
 date: 2013-12-24
-tags: Web
+tags: Development
 ---
 
 This is my website. There are many like it, but [this one is mine][1846-001]. The source code is [available on GitHub](https://github.com/nadavspi/nadav.is).

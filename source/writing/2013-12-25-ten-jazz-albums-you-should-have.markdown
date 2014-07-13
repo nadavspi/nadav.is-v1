@@ -1,6 +1,6 @@
 ---
 title: Ten Jazz albums you should have
-tags: Jazz
+tags: Music
 ---
 
 As always, this list is not comprehensive—I could probably make fifty of these without repeating myself and have them all be great.

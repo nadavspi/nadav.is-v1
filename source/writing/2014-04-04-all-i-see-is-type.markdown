@@ -1,7 +1,7 @@
 ---
 title: All I See is Type
 date: 2014-04-04
-tags: design, typography
+tags: Design, Web
 ---
 
 

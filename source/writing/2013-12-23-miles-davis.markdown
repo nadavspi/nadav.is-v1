@@ -1,7 +1,7 @@
 ---
 title: Miles Davis
 date: 2013-12-23
-tags: Jazz
+tags: Music
 ---
 
 “I can’t talk about Miles Davis—he’s Miles Davis!” The assignment was to talk about people we admire and explain what makes them great. I didn’t think everyone in the group at [Patterns](http://patterns.co)—designers, entrepreneurs, and film people—wanted to hear me prattle about Jazz for a week, so I tried to think of some heroes that weren’t musicians.  

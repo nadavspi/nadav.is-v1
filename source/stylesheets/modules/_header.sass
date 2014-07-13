@@ -11,25 +11,16 @@ body
       +at-breakpoint($large)
         float: left
     nav
-      font-size: ms(-1)
       display: block
-      +at-breakpoint($medium)
-        font-size: ms(0)
       +at-breakpoint($large)
         /* for baseline alignment */
         line-height: 2.3
       ul
-        margin: 0
-        padding: 0
         +at-breakpoint($large)
           float: right
-      li
-        display: inline
-      li + li
-        display: inline
-        padding-left: 1em
   &:not(.index) > header
     padding-bottom: ms(-4)
     +at-breakpoint($large)
       padding-bottom: 0 
     border-bottom: 3px solid $light-grey
+

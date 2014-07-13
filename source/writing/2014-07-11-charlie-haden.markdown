@@ -1,7 +1,7 @@
 ---
 title: Charlie Haden
 date: 2014-07-11 
-tags: jazz
+tags: Music
 ---
 
 > I learned at a very young age that music teaches you about life. When you're

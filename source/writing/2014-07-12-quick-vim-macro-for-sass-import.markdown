@@ -1,7 +1,7 @@
 ---
 title: Quick Vim Macro for Sass @import
 date: 2014-07-12 
-tags: vim 
+tags: Development
 ---
 
 Since Sass @import doesn't support globbing (without [this

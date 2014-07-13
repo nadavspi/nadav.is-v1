@@ -1,7 +1,7 @@
 ---
 title: This is a Website
 date: 2013-12-12
-tags: web
+tags: Web, Development
 ---
 
 Great article from [Jeffrey Zeldman](http://www.zeldman.com/2013/12/11/this-is-a-website/):

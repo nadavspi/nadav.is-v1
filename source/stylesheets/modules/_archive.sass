@@ -17,6 +17,8 @@
   .title
     font-family: "ff-tundra-web", Georgia, serif
     text-transform: none
+  a
+    // @extend %link--orange
   .date
     color: #888
   +at-breakpoint($medium)
@@ -24,3 +26,20 @@
       float: left
     .date
       float: right
+
+.archive__nav 
+  @extend .sc
+  ul 
+    display: inline-block
+    margin-left: 1em
+  .active 
+    @extend %link--orange
+
+.archive__nav__heading 
+  font-size: ms(-1)
+  +at-breakpoint($medium)
+    display: inline-block
+    margin-right: 1em
+    font-size: ms(0)
+  
+
