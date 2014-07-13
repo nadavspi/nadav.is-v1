@@ -1,7 +1,7 @@
 ---
 title: Writing honestly about things I love
 date: 2013-12-11
-tags:
+tags: Music, Web
 ---
 
 > Criticism is the stage on which journalists do their fanciest strutting&hellip;Music critics have almost no power, writing about a cluster of sounds that have vanished into the air and will never be heard in the same way again.

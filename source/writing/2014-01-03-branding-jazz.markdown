@@ -1,7 +1,7 @@
 ---
 title: Branding Jazz
 date: 2014-01-03
-tags: jazz design
+tags: Music, Design
 ---
 
 I was hanging out at [Jazz at Lincoln Center](http://jalc.org) the other day, checking out Wynton Marsalis Septet. The music was—of course—pretty spectacular, but I was really struck by the brand identity and literature.[^website] 

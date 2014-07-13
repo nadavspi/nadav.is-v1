@@ -1,7 +1,7 @@
 ---
 title: How to easily make websites that don't suck
 date: 2013-12-09
-tags: web
+tags: Music, Web
 ---
 
 Jazz brothers and sisters, it's time for us to admit that we have a problem: our websites. A musician’s website has a limited number of tasks, and most websites out there are failing at them. I'm convinced that Jazz and the arts in general are losing out on tons of hungry people because of our inadequate web presence. It is my dream to solve the problem of horrible Jazz websites. 

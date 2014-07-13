@@ -1,7 +1,7 @@
 ---
 title: Reid Miles's <em>Blue Note</em> album covers
 date: 2014-03-26
-tags: jazz design
+tags: Music, Design
 ---
 
 Album covers are a perfect example of design within constraints: some names, a fixed canvas, a few typefaces to choose from, sometimes a photograph. [Blue Note Records](http://www.bluenote.com/) has been around since 1939, and their classic covers are absolute masterpieces.

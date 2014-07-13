@@ -1,7 +1,7 @@
 ---
 title: A month with Vim
 date: 2014-05-26
-tags: development, vim
+tags: Development
 ---
 
 Since starting at [SD](http://somethingdigital.com) in February, I’ve been doing a lot of work on virtual machines or remote servers. I haven’t spent this much time in the command line since I was compiling my own linux kernels and fucking up grub configs as an early teen, and it’s a lot of fun. Because many of these machines don’t have an editor other than Vim and setting up SFTP for every project in Sublime Text is a pain, I decided it was time to learn Vim. Before I started, I know how to go into insert mode and how to save and quit. That’s it. As a geek, I continually hack and refine my environment and this seemed like an obvious place for improvement. So for the past month, I’ve been using Vim exclusively. And I’ve been going deep.

@@ -14,6 +14,19 @@ per_page: 20
   <h1 class="text--center">I write about it.</h1>
   <p>I write about music, the web, and the intersection of the two.</p>
 </article>
+<nav class="archive__nav nav text--center">
+  <h4 class="archive__nav__heading">Topics:</h4>
+  <ul>
+    <li>
+      <%= nav_link "All", "/writing" %>
+    </li>
+    <% blog.tags.each do |tag, articles| %>
+      <li>
+        <%= nav_link tag, tag_path(tag) %>
+      </li>
+    <% end %>
+  </ul>
+</nav>
 
 <% if page_articles %>
 <section class="archive">

@@ -1,7 +1,7 @@
 ---
 title: The internet can save the arts
 date: 2013-12-07
-tags: jazz, design
+tags: Music, Web
 ---
 
 I've recently fallen in love with [Debbie Millman](http://debbiemillman.com/)'s podcast, [Design Matters](http://observermedia.designobserver.com/show_designmatters.html). Debbie—whose [story](http://thegreatdiscontent.com/debbie-millman) is fascinating in its own right—masterfully interviews designers and other creative professionals about where they are now and how they got there. In a [recent episode](http://observermedia.designobserver.com/audio/terry-teachout/38216/), [Terry Teachout](http://en.wikipedia.org/wiki/Terry_Teachout) explains how, growing up in a small town, commercial television was instrumental in introducing him to the arts:
