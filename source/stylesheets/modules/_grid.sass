@@ -14,10 +14,9 @@ $grid-padding       : $gutter-width
 
 $medium:   8
 $large: 12
-$huge:    16
 
 body
-  +container($total-columns, $medium, $large, $huge)
+  +container($total-columns, $medium, $large)
 
 html
   +susy-grid-background
@@ -28,7 +27,7 @@ html
 
 // Automatically reset the grid width & re-apply the grid background
 // to responsive layouts.
-$layouts: $medium, $large, $huge
+$layouts: $medium, $large 
 @each $layout in $layouts
   +at-breakpoint($layout)
     html
