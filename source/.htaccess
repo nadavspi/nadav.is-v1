@@ -1,4 +1,4 @@
-Redirect index.html /writing
+Redirect 301 /index.html /writing
 # Apache configuration file
 # httpd.apache.org/docs/2.2/mod/quickreference.html
 
