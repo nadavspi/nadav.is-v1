@@ -13,7 +13,7 @@
     <link rel="alternate" href="http://nadav.is/writing/quick-vim-macro-for-sass-import/"/>
     <id>http://nadav.is/writing/quick-vim-macro-for-sass-import/</id>
     <published>2014-07-12T00:00:00Z</published>
-    <updated>2014-07-12T20:02:02-04:00</updated>
+    <updated>2014-08-11T22:09:20-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -42,7 +42,7 @@ for importing the contents of a directory.&lt;/p&gt;
     <link rel="alternate" href="http://nadav.is/writing/charlie-haden/"/>
     <id>http://nadav.is/writing/charlie-haden/</id>
     <published>2014-07-11T00:00:00Z</published>
-    <updated>2014-07-12T20:02:02-04:00</updated>
+    <updated>2014-08-11T22:09:20-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -152,11 +152,11 @@ I play the song.&lt;/p&gt;
     <link rel="alternate" href="http://nadav.is/writing/a-month-with-vim/"/>
     <id>http://nadav.is/writing/a-month-with-vim/</id>
     <published>2014-05-26T00:00:00Z</published>
-    <updated>2014-07-12T20:02:02-04:00</updated>
+    <updated>2014-08-11T22:09:20-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;Since starting at &lt;a href="http://somethingdigital.com"&gt;SD&lt;/a&gt; in February, I’ve been doing a lot of work on virtual machines or remote servers. I haven’t spent this much time in the command line since I was compiling my own linux kernels and fucking up grub configs as an early teen, and it’s a lot of fun. Because many of these machines don’t have an editor other than Vim and setting up SFTP for every project in Sublime Text is a pain, I decided it was time to learn Vim. Before I started, I know how to go into insert mode and how to save and quit. That’s it. As a geek, I continually hack and refine my environment and this seemed like an obvious place for improvement. So for the past month, I’ve been using Vim exclusively. And I’ve been going deep.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Since starting at &lt;a href="http://somethingdigital.com"&gt;SD&lt;/a&gt; in February, I’ve been doing a lot of work on virtual machines or remote servers. I haven’t spent this much time in the command line since I was compiling my own linux kernels and fucking up grub configs as an early teen, and it’s a lot of fun. Because many of these machines don’t have an editor other than Vim and setting up SFTP for every project in Sublime Text is a pain, I decided it was time to learn Vim. Before I started, I knew how to go into insert mode and how to save and quit. That’s it. As a geek, I continually hack and refine my environment and this seemed like an obvious place for improvement. So for the past month, I’ve been using Vim exclusively. And I’ve been going deep.&lt;/p&gt;
 
 &lt;p&gt;My favorite thing about Vim (other than street cred from my fellow nerds) is that it’s a language that builds upon itself. Once I learn a word, I can string it together with the ones I already know to form sentences. For instance, hitting &lt;em&gt;j&lt;/em&gt; moves the cursor down one line. Putting a number in front of any command repeats it that many times, so &lt;em&gt;3j&lt;/em&gt; moves the cursor down three lines. Once I learn that &lt;em&gt;d&lt;/em&gt; is for delete, I can do &lt;em&gt;d3j&lt;/em&gt; to delete three lines down. As soon as I know that &lt;em&gt;f&lt;/em&gt; finds the specified character in the line, I also know how to delete everything until the next semicolon in the line by doing &lt;em&gt;df;&lt;/em&gt;, and so on. &lt;/p&gt;
 
@@ -172,7 +172,7 @@ I play the song.&lt;/p&gt;
     <link rel="alternate" href="http://nadav.is/writing/all-i-see-is-type/"/>
     <id>http://nadav.is/writing/all-i-see-is-type/</id>
     <published>2014-04-04T00:00:00Z</published>
-    <updated>2014-07-12T20:02:02-04:00</updated>
+    <updated>2014-08-11T22:09:20-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -206,7 +206,7 @@ I play the song.&lt;/p&gt;
     <link rel="alternate" href="http://nadav.is/writing/reid-miles-blue-note-album-covers/"/>
     <id>http://nadav.is/writing/reid-miles-blue-note-album-covers/</id>
     <published>2014-03-26T00:00:00Z</published>
-    <updated>2014-07-12T20:02:02-04:00</updated>
+    <updated>2014-08-11T22:09:20-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -235,7 +235,7 @@ I play the song.&lt;/p&gt;
     <link rel="alternate" href="http://nadav.is/writing/branding-jazz/"/>
     <id>http://nadav.is/writing/branding-jazz/</id>
     <published>2014-01-03T00:00:00Z</published>
-    <updated>2014-07-12T20:02:02-04:00</updated>
+    <updated>2014-08-11T22:09:20-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
