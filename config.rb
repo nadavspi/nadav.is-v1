@@ -99,7 +99,9 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 activate :gzip
-activate :imageoptim
+activate :imageoptim do |optim|
+  optim.pngout_options = false
+end
 
 # Build-specific configuration
 configure :build do
