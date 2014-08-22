@@ -1,4 +1,6 @@
 /build
+/bin
+/vendor
 /.bundle
 /.sass-cache
 .DS_Store
